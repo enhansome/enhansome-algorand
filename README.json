@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T05:41:21Z",
+            "last_commit": "2026-08-14T04:31:21Z",
             "owner": "algorandfoundation",
             "repo": "puya",
             "stars": 97
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T00:13:04Z",
+            "last_commit": "2026-08-13T14:34:29Z",
             "owner": "algorandfoundation",
             "repo": "algokit-utils-ts",
             "stars": 27
@@ -786,7 +786,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T01:00:23Z",
+            "last_commit": "2026-08-14T01:00:23Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1432
@@ -800,7 +800,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T05:42:44Z",
+            "last_commit": "2026-08-13T13:40:56Z",
             "owner": "algorand",
             "repo": "go-algorand-sdk",
             "stars": 190
@@ -868,7 +868,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:12:09Z",
+            "last_commit": "2026-08-13T22:54:34Z",
             "owner": "algorand",
             "repo": "py-algorand-sdk",
             "stars": 277
@@ -944,7 +944,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:55:55Z",
+            "last_commit": "2026-08-14T11:37:53Z",
             "owner": "perawallet",
             "repo": "connect",
             "stars": 70
@@ -1326,7 +1326,7 @@
             "last_commit": "2024-10-22T15:16:40Z",
             "owner": "algorandfoundation",
             "repo": "beaker",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -1567,7 +1567,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:58:05Z",
+            "last_commit": "2026-08-13T18:03:12Z",
             "owner": "algorandfoundation",
             "repo": "liquid-auth",
             "stars": 32
@@ -1654,7 +1654,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-29T19:33:00Z",
+            "last_commit": "2026-08-13T15:13:16Z",
             "owner": "algorandfoundation",
             "repo": "nodekit",
             "stars": 56
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:00:59.528Z",
+    "last_updated": "2026-08-14T11:58:33.952Z",
     "original_repository": "awesome-algorand/awesome-algorand",
     "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
     "enhanced_repository": "enhansome/enhansome-algorand",
