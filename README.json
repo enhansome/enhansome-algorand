@@ -786,10 +786,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T01:00:30Z",
+            "last_commit": "2026-08-16T01:00:25Z",
             "owner": "algorand",
             "repo": "go-algorand",
-            "stars": 1432
+            "stars": 1434
           }
         },
         {
@@ -1668,7 +1668,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T05:24:32Z",
+            "last_commit": "2026-08-15T18:03:19Z",
             "owner": "algorandfoundation",
             "repo": "reti",
             "stars": 44
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:35:19.174Z",
+    "last_updated": "2026-08-16T11:35:19.058Z",
     "original_repository": "awesome-algorand/awesome-algorand",
     "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
     "enhanced_repository": "enhansome/enhansome-algorand",

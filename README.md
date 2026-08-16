@@ -213,7 +213,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,432 | 🐛 269 | 🌐 Go | 📅 2026-08-15 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,434 | 🐛 269 | 🌐 Go | 📅 2026-08-16 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 190 | 🐛 19 | 🌐 Go | 📅 2026-08-14 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-08-10 - Algorand's data pipeline framework.
 
@@ -382,7 +382,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 ### Nodes & Consensus Participation
 
 * [nodekit](https://github.com/algorandfoundation/nodekit) ⭐ 56 | 🐛 13 | 🌐 Go | 📅 2026-08-13 - Terminal user interface for running and managing Algorand nodes locally.
-* [reti](https://github.com/algorandfoundation/reti) ⭐ 44 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-15 - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
+* [reti](https://github.com/algorandfoundation/reti) ⭐ 44 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-15 - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
 * [Algorand Node UI](https://github.com/algorand/node-ui) ⭐ 28 | 🐛 6 | 🌐 Go | 📅 2023-07-07 - Terminal UI for remote Algorand node management.
 * [AlloCTRL](https://github.com/AlgoNode/alloctrl) ⭐ 15 | 🐛 3 | 🌐 Svelte | 📅 2023-07-28 - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
 * [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-05 - Dev Notes for Archival Node, Indexer Setup (and more).
@@ -504,10 +504,10 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/awesome-algorand/awesome-algorand/blob/main/contributing.md) ⭐ 218 | 🐛 5 | 📅 2026-06-30 first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/awesome-algorand/awesome-algorand/blob/main/contributing.md) ⭐ 218 | 🐛 4 | 📅 2026-06-30 first.
 
 Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
