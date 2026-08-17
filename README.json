@@ -786,7 +786,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T01:00:25Z",
+            "last_commit": "2026-08-17T01:00:23Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1434
@@ -1601,7 +1601,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T21:41:19Z",
+            "last_commit": "2026-08-17T04:33:45Z",
             "owner": "TxnLab",
             "repo": "use-wallet",
             "stars": 101
@@ -1851,7 +1851,7 @@
             "last_commit": "2026-03-06T23:18:55Z",
             "owner": "corvid-agent",
             "repo": "corvid-agent-chat",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:35:19.058Z",
+    "last_updated": "2026-08-17T11:42:41.831Z",
     "original_repository": "awesome-algorand/awesome-algorand",
     "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
     "enhanced_repository": "enhansome/enhansome-algorand",
