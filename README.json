@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 576210903,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T14:34:29Z",
+                "last_commit": "2026-08-19T16:23:54Z",
                 "owner": "algorandfoundation",
                 "repo": "algokit-utils-ts",
                 "stars": 27
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 576210423,
                 "language": "Python",
-                "last_commit": "2026-08-14T19:48:23Z",
+                "last_commit": "2026-08-19T20:27:38Z",
                 "owner": "algorandfoundation",
                 "repo": "algokit-utils-py",
                 "stars": 19
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 806455862,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T05:54:56Z",
+                "last_commit": "2026-08-19T15:03:28Z",
                 "owner": "algorandfoundation",
                 "repo": "puya-ts",
                 "stars": 16
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 903496936,
                 "language": "Rust",
-                "last_commit": "2026-08-12T16:38:56Z",
+                "last_commit": "2026-08-19T20:42:43Z",
                 "owner": "algorandecosystem",
                 "repo": "algokit-core",
                 "stars": 15
@@ -835,7 +835,7 @@
                     "archived": false,
                     "id": 191266671,
                     "language": "Go",
-                    "last_commit": "2026-08-19T01:00:23Z",
+                    "last_commit": "2026-08-20T01:00:31Z",
                     "owner": "algorand",
                     "repo": "go-algorand",
                     "stars": 1433
@@ -850,7 +850,7 @@
                     "archived": false,
                     "id": 169124323,
                     "language": "Go",
-                    "last_commit": "2026-08-18T15:16:43Z",
+                    "last_commit": "2026-08-19T21:21:22Z",
                     "owner": "algorand",
                     "repo": "go-algorand-sdk",
                     "stars": 189
@@ -924,7 +924,7 @@
                     "archived": false,
                     "id": 191575419,
                     "language": "Python",
-                    "last_commit": "2026-08-13T22:54:34Z",
+                    "last_commit": "2026-08-19T18:05:22Z",
                     "owner": "algorand",
                     "repo": "py-algorand-sdk",
                     "stars": 276
@@ -976,7 +976,7 @@
                     "archived": false,
                     "id": 168464345,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T21:14:55Z",
+                    "last_commit": "2026-08-20T02:04:41Z",
                     "owner": "algorand",
                     "repo": "js-algorand-sdk",
                     "stars": 298
@@ -994,7 +994,7 @@
                     "last_commit": "2023-07-18T22:44:29Z",
                     "owner": "scale-it",
                     "repo": "algo-builder",
-                    "stars": 128
+                    "stars": 127
                   }
                 },
                 {
@@ -1953,7 +1953,7 @@
             "last_commit": "2026-04-21T19:05:38Z",
             "owner": "gabrielkuettel",
             "repo": "vibekit",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:16.742Z",
+    "last_updated": "2026-08-20T11:44:25.686Z",
     "original_repository": "awesome-algorand/awesome-algorand",
     "original_repository_id": 444114348,
     "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
