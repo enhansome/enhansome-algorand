@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 576210903,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T06:45:38Z",
+                "last_commit": "2026-08-21T15:54:57Z",
                 "owner": "algorandfoundation",
                 "repo": "algokit-utils-ts",
                 "stars": 27
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 576210423,
                 "language": "Python",
-                "last_commit": "2026-08-20T20:20:51Z",
+                "last_commit": "2026-08-21T23:39:57Z",
                 "owner": "algorandfoundation",
                 "repo": "algokit-utils-py",
                 "stars": 19
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 903496936,
                 "language": "Rust",
-                "last_commit": "2026-08-20T21:22:35Z",
+                "last_commit": "2026-08-21T20:58:25Z",
                 "owner": "algorandecosystem",
                 "repo": "algokit-core",
                 "stars": 15
@@ -401,7 +401,7 @@
                 "archived": false,
                 "id": 540138652,
                 "language": "TypeScript",
-                "last_commit": "2026-08-07T16:13:36Z",
+                "last_commit": "2026-08-21T16:52:26Z",
                 "owner": "LoafPickleWW",
                 "repo": "wen-tools",
                 "stars": 23
@@ -671,7 +671,7 @@
                 "archived": false,
                 "id": 573791691,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T07:11:02Z",
+                "last_commit": "2026-08-22T05:41:17Z",
                 "owner": "AlgoRealm",
                 "repo": "algorealm-cli",
                 "stars": 3
@@ -835,7 +835,7 @@
                     "archived": false,
                     "id": 191266671,
                     "language": "Go",
-                    "last_commit": "2026-08-21T01:00:31Z",
+                    "last_commit": "2026-08-22T01:00:23Z",
                     "owner": "algorand",
                     "repo": "go-algorand",
                     "stars": 1433
@@ -850,7 +850,7 @@
                     "archived": false,
                     "id": 169124323,
                     "language": "Go",
-                    "last_commit": "2026-08-21T00:03:50Z",
+                    "last_commit": "2026-08-21T15:09:53Z",
                     "owner": "algorand",
                     "repo": "go-algorand-sdk",
                     "stars": 189
@@ -924,7 +924,7 @@
                     "archived": false,
                     "id": 191575419,
                     "language": "Python",
-                    "last_commit": "2026-08-21T07:28:55Z",
+                    "last_commit": "2026-08-21T13:05:15Z",
                     "owner": "algorand",
                     "repo": "py-algorand-sdk",
                     "stars": 276
@@ -1066,7 +1066,7 @@
                     "archived": false,
                     "id": 603823503,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-14T18:29:38Z",
+                    "last_commit": "2026-08-21T15:57:01Z",
                     "owner": "subtopia-algo",
                     "repo": "subtopia-js-sdk",
                     "stars": 10
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:43:45.527Z",
+    "last_updated": "2026-08-22T11:36:52.718Z",
     "original_repository": "awesome-algorand/awesome-algorand",
     "original_repository_id": 444114348,
     "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
