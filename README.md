@@ -71,12 +71,12 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 > Official resources for Algorand.
 
+* [Algorand Protocol Specs](https://github.com/algorandfoundation/specs) ⭐ 73 | 🐛 19 | 🌐 TeX | 📅 2026-08-06 - Protocol-level specification documents for the Algorand platform.
 * [Algorand](https://algorandtechnologies.com/) - Official website.
 * [Algorand Foundation](https://algorand.foundation/) - Official website of the Foundation.
 * [Algorand FAQ](https://algorand.foundation/faq) - FAQ maintained by the Algorand Foundation.
 * [Algorand Governance](https://governance.algorand.foundation/) - Official website of Algorand Governance program.
 * [Algorand Developer Portal](https://dev.algorand.co/) - Official Algorand developer portal.
-* [Algorand Protocol Specs](https://github.com/algorandfoundation/specs) ⭐ 73 | 🐛 19 | 🌐 TeX | 📅 2026-08-06 - Protocol-level specification documents for the Algorand platform.
 * [Algorand Discord](https://discord.com/invite/YgPTCVk) - Official Algorand Discord server.
 
 ### AlgoKit
@@ -84,7 +84,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 > AlgoKit is the official one-stop shop tool for developers building on the Algorand network. Maintained by the Algorand Foundation.
 
 * [algokit-cli](https://github.com/algorandfoundation/algokit-cli) ⭐ 190 | 🐛 34 | 🌐 Python | 📅 2026-07-21 - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
-* [puya](https://github.com/algorandfoundation/puya) ⭐ 97 | 🐛 26 | 🌐 Python | 📅 2026-08-23 - An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
+* [puya](https://github.com/algorandfoundation/puya) ⭐ 97 | 🐛 25 | 🌐 Python | 📅 2026-08-24 - An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
 * [algokit-utils-ts](https://github.com/algorandfoundation/algokit-utils-ts) ⭐ 27 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-24 - Algorand AlgoKit Utils for TypeScript.
 * [algokit-utils-py](https://github.com/algorandfoundation/algokit-utils-py) ⭐ 19 | 🐛 21 | 🌐 Python | 📅 2026-08-21 - Algorand AlgoKit Utils for Python.
 * [puya-ts](https://github.com/algorandfoundation/puya-ts) ⭐ 16 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-19 - An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.
@@ -241,7 +241,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Java
 
-* [java-algorand-sdk](https://github.com/algorand/java-algorand-sdk) ⭐ 73 | 🐛 66 | 🌐 Java | 📅 2026-08-19 - The Algorand Java SDK.
+* [java-algorand-sdk](https://github.com/algorand/java-algorand-sdk) ⭐ 73 | 🐛 68 | 🌐 Java | 📅 2026-08-24 - The Algorand Java SDK.
 
 #### .NET
 
@@ -255,7 +255,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Rust
 
-* [rust-algorand-sdk](https://github.com/manuelmauro/algonaut) ⭐ 70 | 🐛 20 | 🌐 Rust | 📅 2026-07-27 - Rust Algorand SDK.
+* [rust-algorand-sdk](https://github.com/manuelmauro/algonaut) ⭐ 70 | 🐛 20 | 🌐 Rust | 📅 2026-08-24 - Rust Algorand SDK.
 
 #### Swift
 
@@ -357,12 +357,12 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 > List of Blockchain explorers for Algorand. Used to view transactions, accounts, assets, etc.
 
+* [Algo Explorer](https://github.com/corvid-agent/algo-explorer) ⭐ 0 | 🐛 1 | 🌐 HTML | 📅 2026-02-20 - Modern Algorand Blockchain explorer with real-time transaction monitoring.
 * [Allo](https://allo.info) - Unified Algorand explorer covering all networks by Nodely.
 * [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)
 * [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 * [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 * [AlgoSurf](https://algo.surf/) - Algorand Network Explorer (supports LocalNet in `localhost`).
-* [Algo Explorer](https://github.com/corvid-agent/algo-explorer) ⭐ 0 | 🐛 1 | 🌐 HTML | 📅 2026-02-20 - Modern Algorand Blockchain explorer with real-time transaction monitoring.
 
 ### Portfolio Trackers
 

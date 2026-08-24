@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Algorand Protocol Specs",
+              "description": "Protocol-level specification documents for the Algorand platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189111114,
+                "language": "TeX",
+                "last_commit": "2026-08-06T15:25:14Z",
+                "owner": "algorandfoundation",
+                "repo": "specs",
+                "stars": 73
+              }
+            }
+          ],
+          "description": "Official resources for Algorand.",
+          "node_type": "group",
+          "title": "Official Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "algokit-cli",
               "description": "The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.",
               "children": [],
@@ -29,7 +51,7 @@
                 "archived": false,
                 "id": 726038420,
                 "language": "Python",
-                "last_commit": "2026-08-23T00:54:37Z",
+                "last_commit": "2026-08-24T14:21:16Z",
                 "owner": "algorandfoundation",
                 "repo": "puya",
                 "stars": 97
@@ -1096,6 +1118,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "java-algorand-sdk",
+                  "description": "The Algorand Java SDK.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 176770877,
+                    "language": "Java",
+                    "last_commit": "2026-08-24T14:24:50Z",
+                    "owner": "algorand",
+                    "repo": "java-algorand-sdk",
+                    "stars": 73
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Java"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "dotnet-algorand-sdk",
                   "description": "Algorand .NET SDK created by @RileyGe.",
                   "children": [],
@@ -1208,6 +1252,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "rust-algorand-sdk",
+                  "description": "Rust Algorand SDK.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 352091412,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T11:52:52Z",
+                    "owner": "manuelmauro",
+                    "repo": "algonaut",
+                    "stars": 70
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rust"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "algorand-wallet",
                   "description": "Algorand wallet official implementation in Swift.",
                   "children": [],
@@ -1315,6 +1381,28 @@
               "description": null,
               "node_type": "group",
               "title": "Swift"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TEALrb",
+                  "description": "A Ruby DSL for writing Algorand smart contracts. (Archived on Jan 22, 2023)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 479214142,
+                    "language": "Ruby",
+                    "last_commit": "2022-12-26T20:14:32Z",
+                    "owner": "joe-p",
+                    "repo": "TEALrb",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Ruby"
             }
           ],
           "description": "Awesome client libraries, tools, and community utilities sorted by the language of implementation.",
@@ -1480,6 +1568,50 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "AlgoRun",
+              "description": "Simple CLI utility for setting up and starting an Algorand MainNet participation node.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660190742,
+                "language": "Python",
+                "last_commit": "2023-06-30T13:16:34Z",
+                "owner": "algorandfoundation",
+                "repo": "algorun",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CLI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vim-algorand-teal",
+                  "description": "Minimalistic syntax highlight for Algorand's TEAL Smart Contract language to vim.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 362732986,
+                    "language": "Vim Script",
+                    "last_commit": "2023-05-31T17:28:52Z",
+                    "owner": "aldur",
+                    "repo": "vim-algorand-teal",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "vim"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -1515,6 +1647,28 @@
               "description": null,
               "node_type": "group",
               "title": "VSCode"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Algorand Visual Studio Extension",
+                  "description": "Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 463818724,
+                    "language": "C#",
+                    "last_commit": "2024-08-09T14:02:00Z",
+                    "owner": "FrankSzendzielarz",
+                    "repo": "AlgorandVisualStudio",
+                    "stars": 19
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visual Studio"
             }
           ],
           "description": "Awesome client libraries, tools, community plugins and integrations for IDEs.",
@@ -1764,6 +1918,28 @@
           "description": null,
           "node_type": "group",
           "title": "Wallet Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Algo Explorer",
+              "description": "Modern Algorand Blockchain explorer with real-time transaction monitoring.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1159508024,
+                "language": "HTML",
+                "last_commit": "2026-02-20T18:15:28Z",
+                "owner": "corvid-agent",
+                "repo": "algo-explorer",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "List of Blockchain explorers for Algorand. Used to view transactions, accounts, assets, etc.",
+          "node_type": "group",
+          "title": "Blockchain Explorers"
         }
       ],
       "title": "Wallets & Asset Interaction"
@@ -2095,6 +2271,28 @@
           "description": "Awesome NFT marketplaces and galleries on Algorand.",
           "node_type": "group",
           "title": "NFT Marketplaces"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nft_voting_tool",
+              "description": "Official voting tool by Algorand Foundation. The repository contains a voting tool that allows for creation and facilitation of immutable, tamperproof voting using the Algorand Blockchain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605937770,
+                "language": "TypeScript",
+                "last_commit": "2025-11-19T10:40:38Z",
+                "owner": "algorandfoundation",
+                "repo": "nft_voting_tool",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "Tools for on-chain voting powered by Algorand",
+          "node_type": "group",
+          "title": "Decentralized voting"
         }
       ],
       "title": "Application Platforms & Examples"
@@ -2189,7 +2387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:45:18.514Z",
+    "last_updated": "2026-08-24T14:30:50.393Z",
     "original_repository": "awesome-algorand/awesome-algorand",
     "original_repository_id": 444114348,
     "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
