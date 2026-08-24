@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 576210903,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:54:57Z",
+                "last_commit": "2026-08-24T11:34:53Z",
                 "owner": "algorandfoundation",
                 "repo": "algokit-utils-ts",
                 "stars": 27
@@ -536,7 +536,7 @@
                 "archived": false,
                 "id": 963787685,
                 "language": "Rust",
-                "last_commit": "2026-08-10T09:56:56Z",
+                "last_commit": "2026-08-24T09:55:00Z",
                 "owner": "aorumbayev",
                 "repo": "lazylora",
                 "stars": 13
@@ -835,7 +835,7 @@
                     "archived": false,
                     "id": 191266671,
                     "language": "Go",
-                    "last_commit": "2026-08-23T01:00:24Z",
+                    "last_commit": "2026-08-24T01:00:30Z",
                     "owner": "algorand",
                     "repo": "go-algorand",
                     "stars": 1432
@@ -1724,7 +1724,7 @@
                 "archived": false,
                 "id": 554044144,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T06:04:03Z",
+                "last_commit": "2026-08-24T06:54:32Z",
                 "owner": "TxnLab",
                 "repo": "use-wallet",
                 "stars": 101
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:36:36.013Z",
+    "last_updated": "2026-08-24T11:45:18.514Z",
     "original_repository": "awesome-algorand/awesome-algorand",
     "original_repository_id": 444114348,
     "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
