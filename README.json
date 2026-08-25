@@ -558,7 +558,7 @@
                 "archived": false,
                 "id": 963787685,
                 "language": "Rust",
-                "last_commit": "2026-08-24T09:55:00Z",
+                "last_commit": "2026-08-25T07:42:30Z",
                 "owner": "aorumbayev",
                 "repo": "lazylora",
                 "stars": 13
@@ -2387,7 +2387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:21.039Z",
+    "last_updated": "2026-08-25T11:45:21.101Z",
     "original_repository": "awesome-algorand/awesome-algorand",
     "original_repository_id": 444114348,
     "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
