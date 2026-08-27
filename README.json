@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 576210903,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T17:59:44Z",
+                "last_commit": "2026-08-26T17:12:23Z",
                 "owner": "algorandfoundation",
                 "repo": "algokit-utils-ts",
                 "stars": 27
@@ -423,7 +423,7 @@
                 "archived": false,
                 "id": 540138652,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:52:26Z",
+                "last_commit": "2026-08-27T01:07:23Z",
                 "owner": "LoafPickleWW",
                 "repo": "wen-tools",
                 "stars": 23
@@ -857,7 +857,7 @@
                     "archived": false,
                     "id": 191266671,
                     "language": "Go",
-                    "last_commit": "2026-08-26T08:10:25Z",
+                    "last_commit": "2026-08-27T01:00:24Z",
                     "owner": "algorand",
                     "repo": "go-algorand",
                     "stars": 1432
@@ -949,7 +949,7 @@
                     "last_commit": "2026-08-21T13:05:15Z",
                     "owner": "algorand",
                     "repo": "py-algorand-sdk",
-                    "stars": 276
+                    "stars": 275
                   }
                 },
                 {
@@ -1425,7 +1425,7 @@
                     "last_commit": "2026-04-13T21:21:30Z",
                     "owner": "algorand",
                     "repo": "pyteal",
-                    "stars": 290
+                    "stars": 289
                   }
                 },
                 {
@@ -1878,7 +1878,7 @@
                 "archived": false,
                 "id": 554044144,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:54:32Z",
+                "last_commit": "2026-08-26T21:12:34Z",
                 "owner": "TxnLab",
                 "repo": "use-wallet",
                 "stars": 101
@@ -2126,8 +2126,8 @@
             "archived": false,
             "id": 1131827127,
             "language": "TypeScript",
-            "last_commit": "2026-04-21T19:05:38Z",
-            "owner": "gabrielkuettel",
+            "last_commit": "2026-08-27T08:05:31Z",
+            "owner": "initlabsai",
             "repo": "vibekit",
             "stars": 27
           }
@@ -2387,9 +2387,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:46:36.706Z",
-    "original_repository": "awesome-algorand/awesome-algorand",
-    "original_repository_id": 444114348,
+    "last_updated": "2026-08-27T11:19:27.548Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 444114348,
+      "language": null,
+      "last_commit": "2026-06-30T13:51:49Z",
+      "owner": "awesome-algorand",
+      "repo": "awesome-algorand",
+      "stars": 217
+    },
     "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
     "enhanced_repository": "enhansome/enhansome-algorand",
     "enhanced_repository_description": null,
