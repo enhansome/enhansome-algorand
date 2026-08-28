@@ -18,7 +18,8 @@
                 "owner": "algorandfoundation",
                 "repo": "specs",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "Official resources for Algorand.",
@@ -40,7 +41,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-cli",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -54,8 +56,9 @@
                 "last_commit": "2026-08-24T15:11:18Z",
                 "owner": "algorandfoundation",
                 "repo": "puya",
-                "stars": 97
-              }
+                "stars": 98
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-utils-ts",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-utils-py",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "algorandfoundation",
                 "repo": "puya-ts",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "algorandecosystem",
                 "repo": "algokit-core",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-avm-vscode-debugger",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algorand-python-testing",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-client-generator-ts",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algorand-typescript-testing",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-client-generator-py",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "AlgoKit is the official one-stop shop tool for developers building on the Algorand network. Maintained by the Algorand Foundation.",
@@ -212,7 +224,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-python-template",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-fullstack-template",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-typescript-template",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-react-frontend-template",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "AlgoKit templates are a set of starter and production-ready baseline templates for developing and deploying Algorand applications. They are designed to be used as a starting point for developers to quickly bootstrap their projects and focus on the business logic of their applications. Refer to Creating AlgoKit Templates for a general guide on how to create your own AlgoKit templates.",
@@ -285,7 +301,8 @@
                 "owner": "cusma",
                 "repo": "algorand-school",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "VKappaKV",
                 "repo": "Zero-To-Hero-blockchain-Algorand",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": null,
@@ -322,7 +340,8 @@
                 "owner": "hodgerpodger",
                 "repo": "staketaxcsv",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "algorand",
                 "repo": "auction-demo",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "headline-design",
                 "repo": "pipeline-ui",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -367,7 +388,8 @@
                 "owner": "AlgoWorldNFT",
                 "repo": "algoworld-contracts",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "cusma",
                 "repo": "algonim",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "AlgoWorldNFT",
                 "repo": "algoworld-swapper",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -412,7 +436,8 @@
                 "owner": "algorand",
                 "repo": "walletconnect-example-dapp",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -423,11 +448,12 @@
                 "archived": false,
                 "id": 540138652,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:04:17Z",
+                "last_commit": "2026-08-27T21:47:22Z",
                 "owner": "LoafPickleWW",
                 "repo": "wen-tools",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -442,7 +468,8 @@
                 "owner": "barnjamin",
                 "repo": "arc3.xyz",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "emg110",
                 "repo": "algorand-qrcode",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "No-Cash-7970",
                 "repo": "txnDuck",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -487,7 +516,8 @@
                 "owner": "cryptomalgo",
                 "repo": "algonoderewards",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -502,7 +532,8 @@
                 "owner": "AlgoRealm",
                 "repo": "algorealm",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -517,7 +548,8 @@
                 "owner": "barnjamin",
                 "repo": "algorand-session-wallet",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -532,7 +564,8 @@
                 "owner": "Ripe",
                 "repo": "algovanity",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -547,7 +580,8 @@
                 "owner": "dspytdao",
                 "repo": "Algo_AMM",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -562,7 +596,8 @@
                 "owner": "aorumbayev",
                 "repo": "lazylora",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -577,7 +612,8 @@
                 "owner": "aorumbayev",
                 "repo": "tinybar",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -592,7 +628,8 @@
                 "owner": "algofishexe",
                 "repo": "minter",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -607,7 +644,8 @@
                 "owner": "shmutalov",
                 "repo": "galvanity",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -622,7 +660,8 @@
                 "owner": "runvnc",
                 "repo": "genpyteal",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -637,7 +676,8 @@
                 "owner": "awesome-algorand",
                 "repo": "algoping",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -652,7 +692,8 @@
                 "owner": "dspytdao",
                 "repo": "AlgoDepo",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -667,7 +708,8 @@
                 "owner": "dspytdao",
                 "repo": "AlgoDeposit",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -682,7 +724,8 @@
                 "owner": "SilentRhetoric",
                 "repo": "xGov-Guru",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -697,7 +740,8 @@
                 "owner": "AlgoRealm",
                 "repo": "algorealm-cli",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -712,7 +756,8 @@
                 "owner": "bafio89",
                 "repo": "agorhash",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -727,7 +772,8 @@
                 "owner": "aorumbayev",
                 "repo": "algofractals",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "A list of open source projects, blogs, websites that are built on top of Algorand.",
@@ -749,7 +795,8 @@
                 "owner": "GoraNetwork",
                 "repo": "algokit_default_template",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -764,7 +811,8 @@
                 "owner": "subtopia-algo",
                 "repo": "algokit-subtopia-template",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -779,7 +827,8 @@
                 "owner": "aorumbayev",
                 "repo": "algokit-tealish-template",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "AlgoKit community templates are a set of starter and production-ready baseline templates for developing and deploying Algorand applications created by the projects and individuals in the Algorand community.",
@@ -809,7 +858,8 @@
                     "owner": "vertices-network",
                     "repo": "c-vertices-sdk",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -824,7 +874,8 @@
                     "owner": "Wisdom-Labs",
                     "repo": "Algorand-Unreal-Engine-SDK",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -839,7 +890,8 @@
                     "owner": "Wisdom-Labs",
                     "repo": "Algorand-CPlusPlus-SDK",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -857,11 +909,12 @@
                     "archived": false,
                     "id": 191266671,
                     "language": "Go",
-                    "last_commit": "2026-08-27T18:57:16Z",
+                    "last_commit": "2026-08-28T18:58:56Z",
                     "owner": "algorand",
                     "repo": "go-algorand",
                     "stars": 1432
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -876,7 +929,8 @@
                     "owner": "algorand",
                     "repo": "go-algorand-sdk",
                     "stars": 189
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -891,7 +945,8 @@
                     "owner": "algorand",
                     "repo": "conduit",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -913,7 +968,8 @@
                     "owner": "RootSoft",
                     "repo": "algorand-php",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -928,7 +984,8 @@
                     "owner": "ffsolutions",
                     "repo": "php-algorand-sdk",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -950,7 +1007,8 @@
                     "owner": "algorand",
                     "repo": "py-algorand-sdk",
                     "stars": 275
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -965,7 +1023,8 @@
                     "owner": "tinymanorg",
                     "repo": "tinyman-py-sdk",
                     "stars": 118
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -980,7 +1039,8 @@
                     "owner": "algorandlabs",
                     "repo": "smart-asa",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -998,11 +1058,12 @@
                     "archived": false,
                     "id": 168464345,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T16:54:05Z",
+                    "last_commit": "2026-08-28T00:34:19Z",
                     "owner": "algorand",
                     "repo": "js-algorand-sdk",
                     "stars": 298
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1017,7 +1078,8 @@
                     "owner": "scale-it",
                     "repo": "algo-builder",
                     "stars": 127
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1032,7 +1094,8 @@
                     "owner": "perawallet",
                     "repo": "connect",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1047,7 +1110,8 @@
                     "owner": "scale-it",
                     "repo": "algo-builder-templates",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1062,7 +1126,8 @@
                     "owner": "thencc",
                     "repo": "algonautjs",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1077,7 +1142,8 @@
                     "owner": "blockshake-io",
                     "repo": "defly-connect",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1092,7 +1158,8 @@
                     "owner": "subtopia-algo",
                     "repo": "subtopia-js-sdk",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1107,7 +1174,8 @@
                     "owner": "SilentRhetoric",
                     "repo": "solid-algo-wallets",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1129,7 +1197,8 @@
                     "owner": "algorand",
                     "repo": "java-algorand-sdk",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1151,7 +1220,8 @@
                     "owner": "RileyGe",
                     "repo": "dotnet-algorand-sdk",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1166,7 +1236,8 @@
                     "owner": "CareBoo",
                     "repo": "unity-algorand-sdk",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1181,7 +1252,8 @@
                     "owner": "FrankSzendzielarz",
                     "repo": "dotnet-algorand-sdk",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1196,7 +1268,8 @@
                     "owner": "geoffodonnell",
                     "repo": "dotnet-yieldly-sdk",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1211,7 +1284,8 @@
                     "owner": "geoffodonnell",
                     "repo": "dotnet-tinyman-sdk",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1226,7 +1300,8 @@
                     "owner": "geoffodonnell",
                     "repo": "powershell-algorand-module",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1241,7 +1316,8 @@
                     "owner": "Vytek",
                     "repo": "AlgorandUnitySDK",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1263,7 +1339,8 @@
                     "owner": "manuelmauro",
                     "repo": "algonaut",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1285,7 +1362,8 @@
                     "owner": "perawallet",
                     "repo": "pera-wallet",
                     "stars": 197
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1300,7 +1378,8 @@
                     "owner": "Jesulonimi21",
                     "repo": "Swift-Algorand-Sdk",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1315,7 +1394,8 @@
                     "owner": "CorvidLabs",
                     "repo": "swift-algokit",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1330,7 +1410,8 @@
                     "owner": "CorvidLabs",
                     "repo": "swift-algorand",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1345,7 +1426,8 @@
                     "owner": "CorvidLabs",
                     "repo": "swift-arc",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1360,7 +1442,8 @@
                     "owner": "CorvidLabs",
                     "repo": "swift-mint",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1375,7 +1458,8 @@
                     "owner": "CorvidLabs",
                     "repo": "swift-algochat",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1397,7 +1481,8 @@
                     "owner": "joe-p",
                     "repo": "TEALrb",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1426,7 +1511,8 @@
                     "owner": "algorand",
                     "repo": "pyteal",
                     "stars": 289
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1441,7 +1527,8 @@
                     "owner": "algorandfoundation",
                     "repo": "TEALScript",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1456,7 +1543,8 @@
                     "owner": "pzbitskiy",
                     "repo": "tealang",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1471,7 +1559,8 @@
                     "owner": "petitnau",
                     "repo": "algoml",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1486,7 +1575,8 @@
                     "owner": "hone-labs",
                     "repo": "aqua-compiler",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1508,7 +1598,8 @@
                     "owner": "algorandfoundation",
                     "repo": "beaker",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1523,7 +1614,8 @@
                     "owner": "algorand",
                     "repo": "pyteal-utils",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1538,7 +1630,8 @@
                     "owner": "runtimeverification",
                     "repo": "avm-semantics",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1553,7 +1646,8 @@
                     "owner": "cusma",
                     "repo": "d-asa",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1580,7 +1674,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algorun",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": null,
@@ -1604,7 +1699,8 @@
                     "owner": "aldur",
                     "repo": "vim-algorand-teal",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1626,7 +1722,8 @@
                     "owner": "ObsidianLabs",
                     "repo": "vscode-algorand",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 },
                 {
                   "node_type": "item",
@@ -1641,7 +1738,8 @@
                     "owner": "hone-labs",
                     "repo": "teal-debugger-extension",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1663,7 +1761,8 @@
                     "owner": "FrankSzendzielarz",
                     "repo": "AlgorandVisualStudio",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
                 }
               ],
               "description": null,
@@ -1690,7 +1789,8 @@
                 "owner": "crytic",
                 "repo": "tealer",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1705,7 +1805,8 @@
                 "owner": "algorand",
                 "repo": "graviton",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1720,7 +1821,8 @@
                 "owner": "Hipo",
                 "repo": "algojig",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1735,7 +1837,8 @@
                 "owner": "Hipo",
                 "repo": "tealinspector",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1750,7 +1853,8 @@
                 "owner": "thencc",
                 "repo": "Irulan",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1765,7 +1869,8 @@
                 "owner": "CorvidLabs",
                 "repo": "swift-algotest",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1780,7 +1885,8 @@
                 "owner": "algorandfoundation",
                 "repo": "algokit-avm-debugger",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": null,
@@ -1802,7 +1908,8 @@
                 "owner": "algorand",
                 "repo": "sandbox",
                 "stars": 241
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1817,7 +1924,8 @@
                 "owner": "MakerXStudio",
                 "repo": "algorand-sandbox-dev",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": null,
@@ -1845,7 +1953,8 @@
                 "owner": "algorandfoundation",
                 "repo": "liquid-auth",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1860,7 +1969,8 @@
                 "owner": "kibis-is",
                 "repo": "web-extension",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "List of wallet providers for Algorand. Please note that this list is not exhaustive and is not an endorsement of any wallet provider. ⚠️ Given the attacks on MyAlgo wallet users, related sdk has been excluded from the list.",
@@ -1882,7 +1992,8 @@
                 "owner": "TxnLab",
                 "repo": "use-wallet",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1897,7 +2008,8 @@
                 "owner": "TxnLab",
                 "repo": "use-wallet-js",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1912,7 +2024,8 @@
                 "owner": "dragmz",
                 "repo": "rsagg",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": null,
@@ -1934,7 +2047,8 @@
                 "owner": "corvid-agent",
                 "repo": "algo-explorer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "List of Blockchain explorers for Algorand. Used to view transactions, accounts, assets, etc.",
@@ -1962,7 +2076,8 @@
                 "owner": "algorandfoundation",
                 "repo": "nodekit",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1977,7 +2092,8 @@
                 "owner": "algorandfoundation",
                 "repo": "reti",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -1992,7 +2108,8 @@
                 "owner": "algorand",
                 "repo": "node-ui",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2007,7 +2124,8 @@
                 "owner": "AlgoNode",
                 "repo": "alloctrl",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2022,7 +2140,8 @@
                 "owner": "BlockStalker",
                 "repo": "algorand-undoc-docs",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": null,
@@ -2044,7 +2163,8 @@
                 "owner": "blockshake-io",
                 "repo": "algorand-ecosystem-audits",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2059,7 +2179,8 @@
                 "owner": "vantagepointreports",
                 "repo": "releases",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2074,7 +2195,8 @@
                 "owner": "tenset-security",
                 "repo": "audits",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "This section is not aimed to promote any of the companies below, please do your due diligence when researching on options available for audits. Instead, the following is simply aimed to highlight an expanding variety of companies offering smart contract audits for Algorand ecosystem.",
@@ -2100,7 +2222,8 @@
             "owner": "GoPlausible",
             "repo": "algorand-mcp",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:26:32.625Z"
         },
         {
           "node_type": "item",
@@ -2115,7 +2238,8 @@
             "owner": "algorand-devrel",
             "repo": "algorand-agent-skills",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T21:26:32.625Z"
         },
         {
           "node_type": "item",
@@ -2126,11 +2250,12 @@
             "archived": false,
             "id": 1131827127,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:08:44Z",
+            "last_commit": "2026-08-28T00:51:13Z",
             "owner": "initlabsai",
             "repo": "vibekit",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:26:32.625Z"
         },
         {
           "node_type": "item",
@@ -2145,7 +2270,8 @@
             "owner": "GoPlausible",
             "repo": "algorand-remote-mcp",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:26:32.625Z"
         },
         {
           "node_type": "item",
@@ -2160,7 +2286,8 @@
             "owner": "aorumbayev",
             "repo": "arcontextify",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:26:32.625Z"
         },
         {
           "node_type": "item",
@@ -2175,7 +2302,8 @@
             "owner": "corvid-agent",
             "repo": "corvid-agent-chat",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:26:32.625Z"
         },
         {
           "node_type": "item",
@@ -2186,11 +2314,12 @@
             "archived": false,
             "id": 1153222430,
             "language": null,
-            "last_commit": "2026-03-21T15:16:59Z",
+            "last_commit": "2026-08-27T22:56:32Z",
             "owner": "corvid-agent",
             "repo": "corvid-agent",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:26:32.625Z"
         }
       ],
       "title": "AI and Machine Learning"
@@ -2213,7 +2342,8 @@
                 "owner": "Folks-Finance",
                 "repo": "algorand-js-sdk",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2228,7 +2358,8 @@
                 "owner": "Folks-Finance",
                 "repo": "folks-router",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "Awesome DeFi platforms and protocols on Algorand. Please note that this list is not aimed to promote any specific project, but rather to provide a comprehensive overview of the ecosystem. Do your own research before investing or using any of the projects listed here.",
@@ -2250,7 +2381,8 @@
                 "owner": "dept",
                 "repo": "algomart",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2265,7 +2397,8 @@
                 "owner": "corvid-agent",
                 "repo": "nft-gallery",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "Awesome NFT marketplaces and galleries on Algorand.",
@@ -2287,7 +2420,8 @@
                 "owner": "algorandfoundation",
                 "repo": "nft_voting_tool",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "Tools for on-chain voting powered by Algorand",
@@ -2315,7 +2449,8 @@
                 "owner": "algorandfoundation",
                 "repo": "ARCs",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2330,7 +2465,8 @@
                 "owner": "algorandfoundation",
                 "repo": "ARCs",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2345,7 +2481,8 @@
                 "owner": "algorandfoundation",
                 "repo": "ARCs",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2360,7 +2497,8 @@
                 "owner": "algorandfoundation",
                 "repo": "ARCs",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             },
             {
               "node_type": "item",
@@ -2375,7 +2513,8 @@
                 "owner": "algorandfoundation",
                 "repo": "ARCs",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "Standards and specs defined in finalized ARCs. The list of all the ARCs can be found here.",
@@ -2387,7 +2526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:02:49.578Z",
+    "last_updated": "2026-08-28T21:26:32.625Z",
     "original_repository_info": {
       "archived": false,
       "id": 444114348,
