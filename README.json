@@ -1443,7 +1443,7 @@
                     "id": 191266671,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-29T01:00:25Z",
+                    "last_commit": "2026-08-30T01:00:23Z",
                     "open_issues": 264,
                     "owner": "algorand",
                     "repo": "go-algorand",
@@ -3450,7 +3450,7 @@
             "id": 1131827127,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T10:05:38Z",
+            "last_commit": "2026-08-30T05:23:46Z",
             "open_issues": 7,
             "owner": "initlabsai",
             "repo": "vibekit",
@@ -3853,7 +3853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:39:11.519Z",
+    "last_updated": "2026-08-30T15:21:25.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓",
