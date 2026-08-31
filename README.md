@@ -165,8 +165,8 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) ⭐ 17 | 🐛 1 | 🌐 TypeScript | 📅 2022-07-21 - Session wallet to allow persisted wallet connections across multiple wallets.
 * [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe](https://github.com/Ripe/algovanity) ⭐ 17 | 🐛 0 | 🌐 Svelte | 📅 2026-07-25.
 * [Automated Prediction Market Maker on Algorand](https://github.com/dspytdao/Algo_AMM) ⭐ 17 | 🐛 5 | 🌐 Python | 📅 2024-07-22 - backend repository with project hosted at [algoAMM.com](https://algoamm.com).
-* [lazylora](https://github.com/aorumbayev/lazylora) ⭐ 13 | 🐛 0 | 🌐 Rust | 📅 2026-08-25 - Terminal UI for exploring Algorand blockchain.
-* [TinyBar App](https://github.com/aorumbayev/tinybar) ⭐ 11 | 🐛 8 | 🌐 Python | 📅 2026-08-24 - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
+* [lazylora](https://github.com/aorumbayev/lazylora) ⭐ 13 | 🐛 1 | 🌐 Rust | 📅 2026-08-31 - Terminal UI for exploring Algorand blockchain.
+* [TinyBar App](https://github.com/aorumbayev/tinybar) ⭐ 11 | 🐛 8 | 🌐 Python | 📅 2026-08-31 - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
 * [minter](https://github.com/algofishexe/minter) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2022-03-24 - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
 * [galvanity](https://github.com/shmutalov/galvanity) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2021-09-23 - Go-based Algorand vanity address generator.
 * [genpyteal](https://github.com/runvnc/genpyteal) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2022-09-27 - Generate PyTeal from (mostly) normal Python.
@@ -213,7 +213,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,432 | 🐛 264 | 🌐 Go | 📅 2026-08-30 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,432 | 🐛 265 | 🌐 Go | 📅 2026-08-31 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 19 | 🌐 Go | 📅 2026-08-21 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-08-10 - Algorand's data pipeline framework.
 
@@ -232,7 +232,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 * [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) ⭐ 298 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-29 - The Algorand JavaScript SDK & Examples.
 * [algo-builder](https://github.com/scale-it/algo-builder) ⭐ 127 | 🐛 15 | 🌐 TypeScript | 📅 2023-07-18 - Framework to automate development of Algorand Assets and Smart Contracts.
-* [perawallet-connect](https://github.com/perawallet/connect) ⭐ 70 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-14 - JavaScript SDK for integrating Pera Wallet to web applications.
+* [perawallet-connect](https://github.com/perawallet/connect) ⭐ 70 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-31 - JavaScript SDK for integrating Pera Wallet to web applications.
 * [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-06 - Dapps templates for Algo Builder.
 * [algonaut.js](https://github.com/thencc/algonautjs) ⭐ 10 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-02 - An easier Algo sdk for front-end dapps (TypeScript).
 * [defly-connect](https://github.com/blockshake-io/defly-connect) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-09 - JavaScript SDK for integrating Defly Wallet to web applications.
@@ -255,7 +255,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Rust
 
-* [rust-algorand-sdk](https://github.com/manuelmauro/algonaut) ⭐ 70 | 🐛 20 | 🌐 Rust | 📅 2026-08-24 - Rust Algorand SDK.
+* [rust-algorand-sdk](https://github.com/manuelmauro/algonaut) ⭐ 70 | 🐛 20 | 🌐 Rust | 📅 2026-08-31 - Rust Algorand SDK.
 
 #### Swift
 
@@ -349,7 +349,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Wallet Development
 
-* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 101 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-26 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 101 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-31 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 * [use-wallet-js](https://github.com/TxnLab/use-wallet-js) ⚠️ Archived - TypeScript library for integrating Algorand wallets into decentralized applications.
 * [rsagg](https://github.com/dragmz/rsagg) ⭐ 8 | 🐛 4 | 🌐 C | 📅 2026-06-17 - A Rust library for GPU accelerated Algorand 'vanity' address generation.
 
@@ -435,7 +435,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 * [algorand-mcp](https://github.com/GoPlausible/algorand-mcp) ⭐ 44 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-08 - Algorand Model Context Protocol (Server & Client) by GoPlausible.
 * [algorand-agent-skills](https://github.com/algorand-devrel/algorand-agent-skills) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2026-08-17 - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
-* [VibeKit](https://github.com/gabrielkuettel/vibekit) ⭐ 27 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-30 - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
+* [VibeKit](https://github.com/gabrielkuettel/vibekit) ⭐ 27 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-31 - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
 * [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) ⭐ 15 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-18 - Algorand remote SSE MCP Server Cloudflare Worker.
 * [arcontextify](https://github.com/aorumbayev/arcontextify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-18 - Algorand ARC-56 to MCP server converter.
 * [AlgoChat](https://github.com/corvid-agent/corvid-agent-chat) ⭐ 4 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-06 - Encrypted peer-to-peer chat client using Algorand transactions and PSK ratcheting.
@@ -510,4 +510,4 @@ Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
