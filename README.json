@@ -79,7 +79,7 @@
                 "open_issues": 25,
                 "owner": "algorandfoundation",
                 "repo": "puya",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "algokit",
                   "lib"
@@ -99,8 +99,8 @@
                 "id": 576210903,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T08:55:13Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-03T14:41:52Z",
+                "open_issues": 32,
                 "owner": "algorandfoundation",
                 "repo": "algokit-utils-ts",
                 "stars": 27,
@@ -369,6 +369,30 @@
             },
             {
               "node_type": "item",
+              "title": "algokit-react-frontend-template",
+              "description": "Official AlgoKit React frontend template provides a production-ready baseline for developing and deploying React frontend applications with Algorand dependencies integrated. Also serves as a reference for template builders on implementing standalone algokit frontend templates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 652503681,
+                "language": "Jinja",
+                "license": null,
+                "last_commit": "2026-03-13T18:11:49Z",
+                "open_issues": 2,
+                "owner": "algorandfoundation",
+                "repo": "algokit-react-frontend-template",
+                "stars": 4,
+                "topics": [
+                  "algokit",
+                  "algokit-template"
+                ]
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
+            },
+            {
+              "node_type": "item",
               "title": "algokit-TypeScript-template",
               "description": "Official AlgoKit's Algorand TypeScript template provides a production-ready baseline for developing and deploying smart contracts in TypeScript.",
               "children": [],
@@ -391,30 +415,6 @@
                   "algorand-blockchain",
                   "algorand-smart-contract",
                   "typescript"
-                ]
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
-              "title": "algokit-react-frontend-template",
-              "description": "Official AlgoKit React frontend template provides a production-ready baseline for developing and deploying React frontend applications with Algorand dependencies integrated. Also serves as a reference for template builders on implementing standalone algokit frontend templates.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 652503681,
-                "language": "Jinja",
-                "license": null,
-                "last_commit": "2026-03-13T18:11:49Z",
-                "open_issues": 2,
-                "owner": "algorandfoundation",
-                "repo": "algokit-react-frontend-template",
-                "stars": 4,
-                "topics": [
-                  "algokit",
-                  "algokit-template"
                 ]
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
@@ -567,36 +567,6 @@
             },
             {
               "node_type": "item",
-              "title": "AlgoWorld-Contracts",
-              "description": "Collection of all smart contracts used by AlgoWorld, written in PyTeal.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "🤖  A collection of Algorand Smart Signatures and Contracts for swaps and trading 🎴",
-                "homepage": null,
-                "id": 417604974,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-05-25T19:33:07Z",
-                "open_issues": 10,
-                "owner": "AlgoWorldNFT",
-                "repo": "algoworld-contracts",
-                "stars": 28,
-                "topics": [
-                  "algorand",
-                  "algoworld",
-                  "awesome-algorand",
-                  "blockchain",
-                  "nft",
-                  "pytest",
-                  "python",
-                  "teal"
-                ]
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
               "title": "algonim",
               "description": "First Algorand mini-puzzle-game. Written in Python+PyTEAL by @cusma.",
               "children": [],
@@ -629,43 +599,6 @@
                   "nim",
                   "smart-contract",
                   "teal"
-                ]
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AlgoWorld-Swapper",
-              "description": "Free and trustless ASA swapper, powered by Algorand Smart Signatures.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "⚡️ Free and trustless ASA swapper, powered by Algorand",
-                "homepage": "https://swapper.algoworld.io",
-                "id": 490082354,
-                "language": "TypeScript",
-                "license": "GPL-3.0",
-                "last_commit": "2024-06-19T16:57:46Z",
-                "open_issues": 21,
-                "owner": "AlgoWorldNFT",
-                "repo": "algoworld-swapper",
-                "stars": 23,
-                "topics": [
-                  "algorand",
-                  "algorand-standard-assets",
-                  "algoworld",
-                  "algoworldexplorer",
-                  "algoworldswapper",
-                  "asa",
-                  "blockchain",
-                  "dapp",
-                  "ipfs",
-                  "nextjs",
-                  "nft",
-                  "nfts",
-                  "pyteal",
-                  "swapper",
-                  "vercel-serverless"
                 ]
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
@@ -776,6 +709,31 @@
             },
             {
               "node_type": "item",
+              "title": "algonoderewards",
+              "description": "Track and visualize Algorand node rewards using Nodely API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An application to track and visualize the rewards from running an Algorand node, using Nodely API.",
+                "homepage": "https://algonoderewards.com",
+                "id": 966009517,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2025-12-31T08:45:47Z",
+                "open_issues": 12,
+                "owner": "cryptomalgo",
+                "repo": "algonoderewards",
+                "stars": 19,
+                "topics": [
+                  "algorand",
+                  "algorand-blockchain",
+                  "algorand-node"
+                ]
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
+            },
+            {
+              "node_type": "item",
               "title": "txnDuck",
               "description": "Transaction building tool for Algorand blockchain.",
               "children": [],
@@ -799,31 +757,6 @@
                   "cryptocurrency",
                   "free-and-open-source-software",
                   "website"
-                ]
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
-              "title": "algonoderewards",
-              "description": "Track and visualize Algorand node rewards using Nodely API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An application to track and visualize the rewards from running an Algorand node, using Nodely API.",
-                "homepage": "https://algonoderewards.com",
-                "id": 966009517,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2025-12-31T08:45:47Z",
-                "open_issues": 12,
-                "owner": "cryptomalgo",
-                "repo": "algonoderewards",
-                "stars": 19,
-                "topics": [
-                  "algorand",
-                  "algorand-blockchain",
-                  "algorand-node"
                 ]
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
@@ -904,7 +837,7 @@
             {
               "node_type": "item",
               "title": "Automated Prediction Market Maker on Algorand",
-              "description": "backend repository with project hosted at algoAMM.com.",
+              "description": "Backend repository for an automated prediction market maker on Algorand.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -964,6 +897,27 @@
             },
             {
               "node_type": "item",
+              "title": "minter",
+              "description": "Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by @fish.exe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "mint algorand NFTs from node.js following ARC-69",
+                "homepage": null,
+                "id": 444540148,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2022-03-24T08:05:18Z",
+                "open_issues": 1,
+                "owner": "algofishexe",
+                "repo": "minter",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
+            },
+            {
+              "node_type": "item",
               "title": "TinyBar App",
               "description": "A tiny macOS menu bar app for tracking ASA prices from TinyMan.",
               "children": [],
@@ -989,27 +943,6 @@
                   "rumps",
                   "tinyman"
                 ]
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
-              "title": "minter",
-              "description": "Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by @fish.exe.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "mint algorand NFTs from node.js following ARC-69",
-                "homepage": null,
-                "id": 444540148,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2022-03-24T08:05:18Z",
-                "open_issues": 1,
-                "owner": "algofishexe",
-                "repo": "minter",
-                "stars": 11,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
             },
@@ -1060,36 +993,6 @@
             },
             {
               "node_type": "item",
-              "title": "AlgoPing",
-              "description": "A tiny cron job that issues a tweet if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "📣  A tiny cron job that issues a tweet with Algorand Block proposal stats on daily basis",
-                "homepage": "https://algoping.betteruptime.com",
-                "id": 551096136,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-12-15T02:14:53Z",
-                "open_issues": 0,
-                "owner": "awesome-algorand",
-                "repo": "algoping",
-                "stars": 6,
-                "topics": [
-                  "algoexplorer",
-                  "algonode",
-                  "algorand",
-                  "algorand-blockchain",
-                  "algorand-dev",
-                  "awesome-list",
-                  "awesomealgo",
-                  "health-check"
-                ]
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
               "title": "AlgoDepo",
               "description": "Single Deposit App Algorand.",
               "children": [],
@@ -1116,6 +1019,36 @@
                   "dspyt",
                   "javascript",
                   "pyteal"
+                ]
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AlgoPing",
+              "description": "A tiny cron job that issues a tweet if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📣  A tiny cron job that issues a tweet with Algorand Block proposal stats on daily basis",
+                "homepage": "https://algoping.betteruptime.com",
+                "id": 551096136,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-12-15T02:14:53Z",
+                "open_issues": 0,
+                "owner": "awesome-algorand",
+                "repo": "algoping",
+                "stars": 6,
+                "topics": [
+                  "algoexplorer",
+                  "algonode",
+                  "algorand",
+                  "algorand-blockchain",
+                  "algorand-dev",
+                  "awesome-list",
+                  "awesomealgo",
+                  "health-check"
                 ]
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
@@ -1175,34 +1108,6 @@
             },
             {
               "node_type": "item",
-              "title": "algorealm-ui",
-              "description": "A web CLI Emulator version of algorealm cli game by @aorumbayev.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Claim the 👑 Crown and the 🪄 Sceptre of Algorand Realm (CLI Emulator Edition)",
-                "homepage": "https://www.algorealm.io/console",
-                "id": 573791691,
-                "language": "TypeScript",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-02T02:28:10Z",
-                "open_issues": 14,
-                "owner": "AlgoRealm",
-                "repo": "algorealm-cli",
-                "stars": 3,
-                "topics": [
-                  "algorand",
-                  "algorand-blockchain",
-                  "algorand-smart-contract",
-                  "algorand-standard-assets",
-                  "algorand-teal",
-                  "blockchain"
-                ]
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
               "title": "AgorHash",
               "description": "Public, permissionless, decentralized and uncensorable free speech protocol.",
               "children": [],
@@ -1219,6 +1124,34 @@
                 "repo": "agorhash",
                 "stars": 3,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
+            },
+            {
+              "node_type": "item",
+              "title": "algorealm-ui",
+              "description": "A web CLI Emulator version of algorealm cli game by @aorumbayev.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Claim the 👑 Crown and the 🪄 Sceptre of Algorand Realm (CLI Emulator Edition)",
+                "homepage": "https://www.algorealm.io/console",
+                "id": 573791691,
+                "language": "TypeScript",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-03T14:54:43Z",
+                "open_issues": 14,
+                "owner": "AlgoRealm",
+                "repo": "algorealm-cli",
+                "stars": 3,
+                "topics": [
+                  "algorand",
+                  "algorand-blockchain",
+                  "algorand-smart-contract",
+                  "algorand-standard-assets",
+                  "algorand-teal",
+                  "blockchain"
+                ]
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
             },
@@ -1443,8 +1376,8 @@
                     "id": 191266671,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-02T14:46:21Z",
-                    "open_issues": 265,
+                    "last_commit": "2026-09-03T01:00:29Z",
+                    "open_issues": 263,
                     "owner": "algorand",
                     "repo": "go-algorand",
                     "stars": 1432,
@@ -1668,11 +1601,11 @@
                     "id": 168464345,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T12:37:24Z",
-                    "open_issues": 61,
+                    "last_commit": "2026-09-03T00:32:37Z",
+                    "open_issues": 62,
                     "owner": "algorand",
                     "repo": "js-algorand-sdk",
-                    "stars": 298,
+                    "stars": 297,
                     "topics": [
                       "algorand",
                       "blockchain",
@@ -1701,7 +1634,7 @@
                     "open_issues": 15,
                     "owner": "scale-it",
                     "repo": "algo-builder",
-                    "stars": 127,
+                    "stars": 128,
                     "topics": [
                       "algorand",
                       "algorand-assets",
@@ -2174,7 +2107,7 @@
                     "id": 1099422957,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-07-18T23:04:09Z",
+                    "last_commit": "2026-09-02T21:00:08Z",
                     "open_issues": 2,
                     "owner": "CorvidLabs",
                     "repo": "swift-algokit",
@@ -2191,6 +2124,44 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "swift-algochat",
+                  "description": "End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🔐 Encrypted messaging on Algorand. Your keys, your messages, your blockchain.",
+                    "homepage": "https://corvidlabs.github.io/swift-algochat/documentation/algochat",
+                    "id": 1120612340,
+                    "language": "Swift",
+                    "license": "MIT",
+                    "last_commit": "2026-09-03T00:22:36Z",
+                    "open_issues": 0,
+                    "owner": "CorvidLabs",
+                    "repo": "swift-algochat",
+                    "stars": 1,
+                    "topics": [
+                      "algorand",
+                      "async-await",
+                      "blockchain",
+                      "chacha20-poly1305",
+                      "cryptography",
+                      "decentralized",
+                      "encryption",
+                      "end-to-end-encryption",
+                      "hkdf",
+                      "messaging",
+                      "privacy",
+                      "psk",
+                      "quantum-resistance",
+                      "swift",
+                      "swift-package-manager",
+                      "x25519"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T21:26:32.625Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "swift-algorand",
                   "description": "Modern Swift SDK for the Algorand Blockchain with async/await and Swift concurrency support.",
                   "children": [],
@@ -2201,7 +2172,7 @@
                     "id": 1103507195,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-07-14T10:30:24Z",
+                    "last_commit": "2026-09-03T00:22:19Z",
                     "open_issues": 0,
                     "owner": "CorvidLabs",
                     "repo": "swift-algorand",
@@ -2229,7 +2200,7 @@
                     "id": 1108140969,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-07-14T03:05:56Z",
+                    "last_commit": "2026-09-03T00:22:02Z",
                     "open_issues": 0,
                     "owner": "CorvidLabs",
                     "repo": "swift-arc",
@@ -2256,7 +2227,7 @@
                     "id": 1099379594,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-07-14T03:35:58Z",
+                    "last_commit": "2026-09-03T00:21:28Z",
                     "open_issues": 1,
                     "owner": "CorvidLabs",
                     "repo": "swift-mint",
@@ -2267,44 +2238,6 @@
                       "minting",
                       "nft",
                       "swift"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T21:26:32.625Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "swift-algochat",
-                  "description": "End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🔐 Encrypted messaging on Algorand. Your keys, your messages, your blockchain.",
-                    "homepage": "https://corvidlabs.github.io/swift-algochat/documentation/algochat",
-                    "id": 1120612340,
-                    "language": "Swift",
-                    "license": "MIT",
-                    "last_commit": "2026-07-15T03:20:29Z",
-                    "open_issues": 0,
-                    "owner": "CorvidLabs",
-                    "repo": "swift-algochat",
-                    "stars": 1,
-                    "topics": [
-                      "algorand",
-                      "async-await",
-                      "blockchain",
-                      "chacha20-poly1305",
-                      "cryptography",
-                      "decentralized",
-                      "encryption",
-                      "end-to-end-encryption",
-                      "hkdf",
-                      "messaging",
-                      "privacy",
-                      "psk",
-                      "quantum-resistance",
-                      "swift",
-                      "swift-package-manager",
-                      "x25519"
                     ]
                   },
                   "first_seen": "2026-08-28T21:26:32.625Z"
@@ -2879,7 +2812,7 @@
                 "id": 1108144385,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-07-18T23:29:44Z",
+                "last_commit": "2026-09-02T21:00:10Z",
                 "open_issues": 2,
                 "owner": "CorvidLabs",
                 "repo": "swift-algotest",
@@ -3065,7 +2998,7 @@
                 "id": 554044144,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T01:50:55Z",
+                "last_commit": "2026-09-03T09:18:53Z",
                 "open_issues": 13,
                 "owner": "TxnLab",
                 "repo": "use-wallet",
@@ -3351,33 +3284,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Tenset Security",
-              "description": "Comprising a team of Web3 Security Researchers, Tenset Security is dedicated to leaving no stone unturned in their pursuit of security excellence. They have a proven track record of success in discovering high-severity vulnerabilities specifically within Algorand projects, emphasizing their expertise and commitment to the Algorand ecosystem.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "security audits by Tenset Security",
-                "homepage": null,
-                "id": 675969419,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-06-14T11:01:23Z",
-                "open_issues": 0,
-                "owner": "tenset-security",
-                "repo": "audits",
-                "stars": 3,
-                "topics": [
-                  "audits",
-                  "blockchain",
-                  "security",
-                  "security-review",
-                  "solidity"
-                ]
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
             }
           ],
           "description": "This section is not aimed to promote any of the companies below, please do your due diligence when researching on options available for audits. Instead, the following is simply aimed to highlight an expanding variety of companies offering smart contract audits for Algorand ecosystem.",
@@ -3450,7 +3356,7 @@
             "id": 1131827127,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T04:32:28Z",
+            "last_commit": "2026-09-03T00:03:42Z",
             "open_issues": 8,
             "owner": "initlabsai",
             "repo": "vibekit",
@@ -3750,28 +3656,7 @@
                 "id": 383547129,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-02T09:27:07Z",
-                "open_issues": 21,
-                "owner": "algorandfoundation",
-                "repo": "ARCs",
-                "stars": 140,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ARC4",
-              "description": "Application Binary Interface.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Algorand Requests for Comments",
-                "homepage": null,
-                "id": 383547129,
-                "language": "Python",
-                "license": "CC0-1.0",
-                "last_commit": "2026-09-02T09:27:07Z",
+                "last_commit": "2026-09-03T08:05:55Z",
                 "open_issues": 21,
                 "owner": "algorandfoundation",
                 "repo": "ARCs",
@@ -3792,7 +3677,28 @@
                 "id": 383547129,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-02T09:27:07Z",
+                "last_commit": "2026-09-03T08:05:55Z",
+                "open_issues": 21,
+                "owner": "algorandfoundation",
+                "repo": "ARCs",
+                "stars": 140,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ARC4",
+              "description": "Application Binary Interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Algorand Requests for Comments",
+                "homepage": null,
+                "id": 383547129,
+                "language": "Python",
+                "license": "CC0-1.0",
+                "last_commit": "2026-09-03T08:05:55Z",
                 "open_issues": 21,
                 "owner": "algorandfoundation",
                 "repo": "ARCs",
@@ -3813,7 +3719,7 @@
                 "id": 383547129,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-02T09:27:07Z",
+                "last_commit": "2026-09-03T08:05:55Z",
                 "open_issues": 21,
                 "owner": "algorandfoundation",
                 "repo": "ARCs",
@@ -3834,7 +3740,7 @@
                 "id": 383547129,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-02T09:27:07Z",
+                "last_commit": "2026-09-03T08:05:55Z",
                 "open_issues": 21,
                 "owner": "algorandfoundation",
                 "repo": "ARCs",
@@ -3853,16 +3759,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:07:16.365Z",
+    "last_updated": "2026-09-03T15:01:08.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓",
       "homepage": "https://awesomealgo.com",
       "id": 444114348,
-      "language": null,
+      "language": "Python",
       "license": "NOASSERTION",
-      "last_commit": "2026-06-30T13:51:49Z",
-      "open_issues": 5,
+      "last_commit": "2026-09-03T14:01:17Z",
+      "open_issues": 2,
       "owner": "awesome-algorand",
       "repo": "awesome-algorand",
       "stars": 217,
@@ -3889,7 +3795,7 @@
         "web3"
       ]
     },
-    "original_repository_sha": "a06f0e8e671d1760d708fab4da7bfa240de2448c",
+    "original_repository_sha": "26f1819a4b88761fbc3250257016705c690f5a6c",
     "enhanced_repository": "enhansome/enhansome-algorand",
     "enhanced_repository_description": null,
     "title": "Awesome Algorand with stars"
