@@ -85,8 +85,8 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 * [algokit-cli](https://github.com/algorandfoundation/algokit-cli) ⭐ 190 | 🐛 34 | 🌐 Python | 📅 2026-07-21 - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
 * [puya](https://github.com/algorandfoundation/puya) ⭐ 99 | 🐛 25 | 🌐 Python | 📅 2026-08-24 - An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
-* [algokit-utils-ts](https://github.com/algorandfoundation/algokit-utils-ts) ⭐ 27 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-03 - Algorand AlgoKit Utils for TypeScript.
-* [algokit-utils-py](https://github.com/algorandfoundation/algokit-utils-py) ⭐ 19 | 🐛 22 | 🌐 Python | 📅 2026-09-01 - Algorand AlgoKit Utils for Python.
+* [algokit-utils-ts](https://github.com/algorandfoundation/algokit-utils-ts) ⭐ 27 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-03 - Algorand AlgoKit Utils for TypeScript.
+* [algokit-utils-py](https://github.com/algorandfoundation/algokit-utils-py) ⭐ 19 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - Algorand AlgoKit Utils for Python.
 * [puya-ts](https://github.com/algorandfoundation/puya-ts) ⭐ 16 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-01 - An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.
 * [algokit-core](https://github.com/algorandfoundation/algokit-core) ⭐ 15 | 🐛 28 | 🌐 Rust | 📅 2026-08-21 - Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).
 * [algokit-avm-vscode-debugger](https://github.com/algorandfoundation/algokit-avm-vscode-debugger) ⭐ 13 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-22 - VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.
@@ -175,7 +175,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [AlgoDeposit](https://github.com/dspytdao/AlgoDeposit) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-04-22 - AMM Pool App Algorand.
 * [xGov-Guru](https://github.com/SilentRhetoric/xGov-Guru) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2024-05-10 - Tool to browse xGov voting data and proposals.
 * [AgorHash](https://github.com/bafio89/agorhash) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-19 - Public, permissionless, decentralized and uncensorable free speech protocol.
-* [algorealm-ui](https://github.com/algorealm/algorealm-ui) ⭐ 3 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-03 - A web CLI Emulator version of algorealm cli game by @aorumbayev.
+* [algorealm-ui](https://github.com/algorealm/algorealm-ui) ⭐ 3 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-04 - A web CLI Emulator version of algorealm cli game by @aorumbayev.
 * [algofractals](https://github.com/aorumbayev/algofractals) ⚠️ Archived - Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)
 * [Algo Snow](https://dragmz.itch.io/algo-snow) - Interactive browser-based Algorand-themed game.
 * [AlgoRadio](https://algocities.pages.dev/landmark/allgoradio) - Experimental Algorand-themed radio experience.
@@ -213,8 +213,8 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,432 | 🐛 263 | 🌐 Go | 📅 2026-09-03 - Algorand's official implementation in Go.
-* [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 19 | 🌐 Go | 📅 2026-08-21 - The Algorand Golang SDK.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,432 | 🐛 262 | 🌐 Go | 📅 2026-09-04 - Algorand's official implementation in Go.
+* [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 19 | 🌐 Go | 📅 2026-09-03 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-08-10 - Algorand's data pipeline framework.
 
 #### PHP
@@ -261,7 +261,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 * [algorand-wallet](https://github.com/algorand/algorand-wallet) ⚠️ Archived - Algorand wallet official implementation in Swift.
 * [swift-algorand-sdk](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) ⭐ 24 | 🐛 10 | 🌐 Swift | 📅 2024-09-29 - A Swift SDK for interacting with the Algorand Blockchain.
-* [swift-algokit](https://github.com/CorvidLabs/swift-algokit) ⭐ 2 | 🐛 2 | 🌐 Swift | 📅 2026-09-02 - AlgoKit utilities for Swift developers.
+* [swift-algokit](https://github.com/CorvidLabs/swift-algokit) ⭐ 2 | 🐛 3 | 🌐 Swift | 📅 2026-09-04 - AlgoKit utilities for Swift developers.
 * [swift-algochat](https://github.com/CorvidLabs/swift-algochat) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2026-09-03 - End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.
 * [swift-algorand](https://github.com/CorvidLabs/swift-algorand) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2026-09-03 - Modern Swift SDK for the Algorand Blockchain with async/await and Swift concurrency support.
 * [swift-arc](https://github.com/CorvidLabs/swift-arc) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2026-09-03 - Swift library for working with Algorand ARC metadata standards for NFTs.
@@ -508,4 +508,4 @@ Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
