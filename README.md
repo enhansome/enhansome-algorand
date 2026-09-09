@@ -213,8 +213,8 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,434 | 🐛 262 | 🌐 Go | 📅 2026-09-08 - Algorand's official implementation in Go.
-* [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 19 | 🌐 Go | 📅 2026-09-05 - The Algorand Golang SDK.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,434 | 🐛 263 | 🌐 Go | 📅 2026-09-09 - Algorand's official implementation in Go.
+* [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 19 | 🌐 Go | 📅 2026-09-09 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-08-10 - Algorand's data pipeline framework.
 
 #### PHP
@@ -230,9 +230,9 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### JavaScript & TypeScript
 
-* [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) ⭐ 297 | 🐛 62 | 🌐 TypeScript | 📅 2026-09-03 - The Algorand JavaScript SDK & Examples.
+* [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) ⭐ 297 | 🐛 62 | 🌐 TypeScript | 📅 2026-09-09 - The Algorand JavaScript SDK & Examples.
 * [algo-builder](https://github.com/scale-it/algo-builder) ⭐ 128 | 🐛 15 | 🌐 TypeScript | 📅 2023-07-18 - Framework to automate development of Algorand Assets and Smart Contracts.
-* [perawallet-connect](https://github.com/perawallet/connect) ⭐ 70 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-08 - JavaScript SDK for integrating Pera Wallet to web applications.
+* [perawallet-connect](https://github.com/perawallet/connect) ⭐ 70 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-09 - JavaScript SDK for integrating Pera Wallet to web applications.
 * [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-06 - Dapps templates for Algo Builder.
 * [algonaut.js](https://github.com/thencc/algonautjs) ⭐ 10 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-02 - An easier Algo sdk for front-end dapps (TypeScript).
 * [defly-connect](https://github.com/blockshake-io/defly-connect) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-09 - JavaScript SDK for integrating Defly Wallet to web applications.
@@ -380,7 +380,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Nodes & Consensus Participation
 
-* [nodekit](https://github.com/algorandfoundation/nodekit) ⭐ 56 | 🐛 15 | 🌐 Go | 📅 2026-08-13 - Terminal user interface for running and managing Algorand nodes locally.
+* [nodekit](https://github.com/algorandfoundation/nodekit) ⭐ 55 | 🐛 15 | 🌐 Go | 📅 2026-09-09 - Terminal user interface for running and managing Algorand nodes locally.
 * [reti](https://github.com/algorandfoundation/reti) ⭐ 44 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-20 - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
 * [Algorand Node UI](https://github.com/algorand/node-ui) ⭐ 28 | 🐛 6 | 🌐 Go | 📅 2023-07-07 - Terminal UI for remote Algorand node management.
 * [AlloCTRL](https://github.com/AlgoNode/alloctrl) ⚠️ Archived - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
@@ -434,7 +434,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 > A list of AI, ML and Data Science projects that leverage Algorand.
 
 * [algorand-mcp](https://github.com/GoPlausible/algorand-mcp) ⭐ 44 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-08 - Algorand Model Context Protocol (Server & Client) by GoPlausible.
-* [algorand-agent-skills](https://github.com/algorand-devrel/algorand-agent-skills) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2026-08-17 - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
+* [algorand-agent-skills](https://github.com/algorand-devrel/algorand-agent-skills) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2026-09-09 - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
 * [VibeKit](https://github.com/gabrielkuettel/vibekit) ⭐ 27 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-03 - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
 * [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) ⭐ 15 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-18 - Algorand remote SSE MCP Server Cloudflare Worker.
 * [arcontextify](https://github.com/aorumbayev/arcontextify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-18 - Algorand ARC-56 to MCP server converter.
@@ -494,11 +494,11 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 > Standards and specs defined in *finalized* ARCs.
 > The list of all the ARCs can be found [here](https://arc.algorand.foundation).
 
-* [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) ⭐ 140 | 🐛 21 | 🌐 Python | 📅 2026-09-03 - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
-* [ARC32](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md) ⭐ 140 | 🐛 21 | 🌐 Python | 📅 2026-09-03 - Application Specification.
-* [ARC4](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md) ⭐ 140 | 🐛 21 | 🌐 Python | 📅 2026-09-03 - Application Binary Interface.
-* [ARC56](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0056.md) ⭐ 140 | 🐛 21 | 🌐 Python | 📅 2026-09-03 - Extended and improved Application Specification.
-* [ARC69](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0069.md) ⭐ 140 | 🐛 21 | 🌐 Python | 📅 2026-09-03 - One of several Algorand Standard Asset Parameters Conventions.
+* [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) ⭐ 140 | 🐛 22 | 🌐 Python | 📅 2026-09-09 - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
+* [ARC32](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md) ⭐ 140 | 🐛 22 | 🌐 Python | 📅 2026-09-09 - Application Specification.
+* [ARC4](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md) ⭐ 140 | 🐛 22 | 🌐 Python | 📅 2026-09-09 - Application Binary Interface.
+* [ARC56](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0056.md) ⭐ 140 | 🐛 22 | 🌐 Python | 📅 2026-09-09 - Extended and improved Application Specification.
+* [ARC69](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0069.md) ⭐ 140 | 🐛 22 | 🌐 Python | 📅 2026-09-09 - One of several Algorand Standard Asset Parameters Conventions.
 
 ## Contributing
 
@@ -508,4 +508,4 @@ Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
