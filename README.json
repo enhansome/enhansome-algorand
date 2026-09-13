@@ -508,7 +508,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-13T21:54:53Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "hodgerpodger",
                 "repo": "staketaxcsv",
                 "stars": 271,
@@ -1139,7 +1139,7 @@
                 "id": 573791691,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T16:54:36Z",
+                "last_commit": "2026-09-12T17:18:12Z",
                 "open_issues": 14,
                 "owner": "AlgoRealm",
                 "repo": "algorealm-cli",
@@ -1376,11 +1376,11 @@
                     "id": 191266671,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-12T01:00:32Z",
-                    "open_issues": 265,
+                    "last_commit": "2026-09-13T01:00:23Z",
+                    "open_issues": 267,
                     "owner": "algorand",
                     "repo": "go-algorand",
-                    "stars": 1434,
+                    "stars": 1436,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:32.625Z"
@@ -2874,7 +2874,7 @@
                 "open_issues": 12,
                 "owner": "algorand",
                 "repo": "sandbox",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
@@ -2998,7 +2998,7 @@
                 "id": 554044144,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T18:47:38Z",
+                "last_commit": "2026-09-12T18:17:26Z",
                 "open_issues": 15,
                 "owner": "TxnLab",
                 "repo": "use-wallet",
@@ -3566,7 +3566,7 @@
                 "open_issues": 113,
                 "owner": "dept",
                 "repo": "algomart",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
@@ -3759,7 +3759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:10:09.258Z",
+    "last_updated": "2026-09-13T14:55:42.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓",
