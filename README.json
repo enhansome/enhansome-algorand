@@ -55,7 +55,7 @@
                 "open_issues": 34,
                 "owner": "algorandfoundation",
                 "repo": "algokit-cli",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "algokit",
                   "app"
@@ -75,7 +75,7 @@
                 "id": 726038420,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T15:05:46Z",
+                "last_commit": "2026-09-16T14:41:18Z",
                 "open_issues": 26,
                 "owner": "algorandfoundation",
                 "repo": "puya",
@@ -171,7 +171,7 @@
                 "id": 903496936,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-11T23:12:13Z",
+                "last_commit": "2026-09-16T04:46:31Z",
                 "open_issues": 28,
                 "owner": "algorandecosystem",
                 "repo": "algokit-core",
@@ -709,31 +709,6 @@
             },
             {
               "node_type": "item",
-              "title": "algonoderewards",
-              "description": "Track and visualize Algorand node rewards using Nodely API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An application to track and visualize the rewards from running an Algorand node, using Nodely API.",
-                "homepage": "https://algonoderewards.com",
-                "id": 966009517,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2025-12-31T08:45:47Z",
-                "open_issues": 12,
-                "owner": "cryptomalgo",
-                "repo": "algonoderewards",
-                "stars": 19,
-                "topics": [
-                  "algorand",
-                  "algorand-blockchain",
-                  "algorand-node"
-                ]
-              },
-              "first_seen": "2026-08-28T21:26:32.625Z"
-            },
-            {
-              "node_type": "item",
               "title": "txnDuck",
               "description": "Transaction building tool for Algorand blockchain.",
               "children": [],
@@ -748,7 +723,7 @@
                 "open_issues": 6,
                 "owner": "No-Cash-7970",
                 "repo": "txnDuck",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "algorand",
                   "algorand-blockchain",
@@ -757,6 +732,31 @@
                   "cryptocurrency",
                   "free-and-open-source-software",
                   "website"
+                ]
+              },
+              "first_seen": "2026-08-28T21:26:32.625Z"
+            },
+            {
+              "node_type": "item",
+              "title": "algonoderewards",
+              "description": "Track and visualize Algorand node rewards using Nodely API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An application to track and visualize the rewards from running an Algorand node, using Nodely API.",
+                "homepage": "https://algonoderewards.com",
+                "id": 966009517,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2025-12-31T08:45:47Z",
+                "open_issues": 13,
+                "owner": "cryptomalgo",
+                "repo": "algonoderewards",
+                "stars": 19,
+                "topics": [
+                  "algorand",
+                  "algorand-blockchain",
+                  "algorand-node"
                 ]
               },
               "first_seen": "2026-08-28T21:26:32.625Z"
@@ -928,7 +928,7 @@
                 "id": 443639720,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T16:25:23Z",
+                "last_commit": "2026-09-16T00:21:46Z",
                 "open_issues": 8,
                 "owner": "aorumbayev",
                 "repo": "tinybar",
@@ -1139,7 +1139,7 @@
                 "id": 573791691,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T17:18:12Z",
+                "last_commit": "2026-09-16T12:28:26Z",
                 "open_issues": 14,
                 "owner": "AlgoRealm",
                 "repo": "algorealm-cli",
@@ -1376,8 +1376,8 @@
                     "id": 191266671,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-15T15:31:15Z",
-                    "open_issues": 267,
+                    "last_commit": "2026-09-16T14:27:41Z",
+                    "open_issues": 268,
                     "owner": "algorand",
                     "repo": "go-algorand",
                     "stars": 1436,
@@ -1661,7 +1661,7 @@
                     "id": 478665103,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-10T12:20:55Z",
+                    "last_commit": "2026-09-16T09:53:12Z",
                     "open_issues": 7,
                     "owner": "perawallet",
                     "repo": "connect",
@@ -1752,7 +1752,7 @@
                     "id": 603823503,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T00:34:00Z",
+                    "last_commit": "2026-09-16T12:16:53Z",
                     "open_issues": 11,
                     "owner": "subtopia-algo",
                     "repo": "subtopia-js-sdk",
@@ -2513,7 +2513,7 @@
                     "open_issues": 22,
                     "owner": "cusma",
                     "repo": "d-asa",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "actus",
                       "algorand",
@@ -3136,7 +3136,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-15T13:59:40Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "algorandfoundation",
                 "repo": "nodekit",
                 "stars": 55,
@@ -3759,7 +3759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:34:36.536Z",
+    "last_updated": "2026-09-16T15:25:54.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓",
