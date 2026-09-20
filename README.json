@@ -1139,7 +1139,7 @@
                 "id": 573791691,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T01:05:03Z",
+                "last_commit": "2026-09-19T18:40:05Z",
                 "open_issues": 14,
                 "owner": "AlgoRealm",
                 "repo": "algorealm-cli",
@@ -1376,7 +1376,7 @@
                     "id": 191266671,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-19T01:00:31Z",
+                    "last_commit": "2026-09-20T01:00:25Z",
                     "open_issues": 272,
                     "owner": "algorand",
                     "repo": "go-algorand",
@@ -2998,7 +2998,7 @@
                 "id": 554044144,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T10:45:49Z",
+                "last_commit": "2026-09-20T09:24:49Z",
                 "open_issues": 16,
                 "owner": "TxnLab",
                 "repo": "use-wallet",
@@ -3759,7 +3759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:27:09.340Z",
+    "last_updated": "2026-09-20T14:42:43.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓",
