@@ -83,7 +83,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 > AlgoKit is the official one-stop shop tool for developers building on the Algorand network. Maintained by the Algorand Foundation.
 
-* [algokit-cli](https://github.com/algorandfoundation/algokit-cli) ⭐ 193 | 🐛 34 | 🌐 Python | 📅 2026-07-21 - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
+* [algokit-cli](https://github.com/algorandfoundation/algokit-cli) ⭐ 192 | 🐛 34 | 🌐 Python | 📅 2026-07-21 - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
 * [puya](https://github.com/algorandfoundation/puya) ⭐ 99 | 🐛 24 | 🌐 Python | 📅 2026-09-24 - An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
 * [algokit-utils-ts](https://github.com/algorandfoundation/algokit-utils-ts) ⭐ 27 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-25 - Algorand AlgoKit Utils for TypeScript.
 * [algokit-utils-py](https://github.com/algorandfoundation/algokit-utils-py) ⭐ 19 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - Algorand AlgoKit Utils for Python.
@@ -151,12 +151,12 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 > A list of open source projects, blogs, websites that are built on top of Algorand.
 
-* [staketaxcsv](https://github.com/hodgerpodger/staketaxcsv) ⭐ 271 | 🐛 20 | 🌐 Python | 📅 2026-02-13 - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
+* [staketaxcsv](https://github.com/hodgerpodger/staketaxcsv) ⭐ 268 | 🐛 20 | 🌐 Python | 📅 2026-02-13 - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
 * [Auction Demo](https://github.com/algorand/auction-demo) ⚠️ Archived - On-chain NFT auction using smart contracts.
 * [Pipeline-UI](https://github.com/headline-design/pipeline-ui) ⭐ 30 | 🐛 3 | 🌐 HTML | 📅 2022-06-22 - A React.js based component library for rapid deployment of Algorand Dapps.
 * [algonim](https://github.com/cusma/algonim) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2021-08-04 - First Algorand mini-puzzle-game. Written in Python+PyTEAL by [@cusma](https://twitter.com/cusma_b).
 * [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-29 - Algorand WalletConnect demo.
-* [wen-tools](https://github.com/LoafPickleWW/wen-tools) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-25 - Bulk operations tool for Algorand.
+* [wen-tools](https://github.com/LoafPickleWW/wen-tools) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-26 - Bulk operations tool for Algorand.
 * [arc3.xyz](https://github.com/barnjamin/arc3.xyz) ⭐ 22 | 🐛 3 | 🌐 TypeScript | 📅 2022-10-12 - Dapp that can be used to mint ARC3 compliant NFTs.
 * [QRCode Generator](https://github.com/emg110/algorand-qrcode) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2024-09-09 - Uinversal QRCode generator module for Algorand ARC-26 URIs.
 * [txnDuck](https://github.com/No-Cash-7970/txnDuck) ⭐ 20 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-07 - Transaction building tool for Algorand blockchain.
@@ -213,7 +213,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 269 | 🌐 Go | 📅 2026-09-26 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 269 | 🌐 Go | 📅 2026-09-27 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 19 | 🌐 Go | 📅 2026-09-23 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-08-10 - Algorand's data pipeline framework.
 
@@ -261,7 +261,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 * [algorand-wallet](https://github.com/algorand/algorand-wallet) ⚠️ Archived - Algorand wallet official implementation in Swift.
 * [swift-algorand-sdk](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) ⭐ 24 | 🐛 10 | 🌐 Swift | 📅 2024-09-29 - A Swift SDK for interacting with the Algorand Blockchain.
-* [swift-algokit](https://github.com/CorvidLabs/swift-algokit) ⭐ 2 | 🐛 2 | 🌐 Swift | 📅 2026-09-20 - AlgoKit utilities for Swift developers.
+* [swift-algokit](https://github.com/CorvidLabs/swift-algokit) ⭐ 2 | 🐛 1 | 🌐 Swift | 📅 2026-09-20 - AlgoKit utilities for Swift developers.
 * [swift-algochat](https://github.com/CorvidLabs/swift-algochat) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2026-09-26 - End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.
 * [swift-algorand](https://github.com/CorvidLabs/swift-algorand) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2026-09-26 - Modern Swift SDK for the Algorand Blockchain with async/await and Swift concurrency support.
 * [swift-arc](https://github.com/CorvidLabs/swift-arc) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2026-09-20 - Swift library for working with Algorand ARC metadata standards for NFTs.
@@ -380,7 +380,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Nodes & Consensus Participation
 
-* [nodekit](https://github.com/algorandfoundation/nodekit) ⭐ 55 | 🐛 15 | 🌐 Go | 📅 2026-09-15 - Terminal user interface for running and managing Algorand nodes locally.
+* [nodekit](https://github.com/algorandfoundation/nodekit) ⭐ 55 | 🐛 14 | 🌐 Go | 📅 2026-09-15 - Terminal user interface for running and managing Algorand nodes locally.
 * [reti](https://github.com/algorandfoundation/reti) ⭐ 44 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-21 - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
 * [Algorand Node UI](https://github.com/algorand/node-ui) ⭐ 28 | 🐛 6 | 🌐 Go | 📅 2023-07-07 - Terminal UI for remote Algorand node management.
 * [AlloCTRL](https://github.com/AlgoNode/alloctrl) ⚠️ Archived - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
@@ -508,4 +508,4 @@ Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
