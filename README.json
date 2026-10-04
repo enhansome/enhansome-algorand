@@ -1139,7 +1139,7 @@
                 "id": 573791691,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T11:06:37Z",
+                "last_commit": "2026-10-04T09:06:49Z",
                 "open_issues": 14,
                 "owner": "AlgoRealm",
                 "repo": "algorealm-cli",
@@ -1376,8 +1376,8 @@
                     "id": 191266671,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-03T01:00:23Z",
-                    "open_issues": 271,
+                    "last_commit": "2026-10-04T01:00:24Z",
+                    "open_issues": 272,
                     "owner": "algorand",
                     "repo": "go-algorand",
                     "stars": 1438,
@@ -2998,8 +2998,8 @@
                 "id": 554044144,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T09:45:33Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-03T22:41:09Z",
+                "open_issues": 8,
                 "owner": "TxnLab",
                 "repo": "use-wallet",
                 "stars": 101,
@@ -3759,7 +3759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:09:04.766Z",
+    "last_updated": "2026-10-04T15:48:27.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓",
@@ -3767,8 +3767,8 @@
       "id": 444114348,
       "language": "Python",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-03T14:01:17Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-04T10:46:23Z",
+      "open_issues": 3,
       "owner": "awesome-algorand",
       "repo": "awesome-algorand",
       "stars": 217,
@@ -3795,7 +3795,7 @@
         "web3"
       ]
     },
-    "original_repository_sha": "26f1819a4b88761fbc3250257016705c690f5a6c",
+    "original_repository_sha": "7477718b1cc3259e77d62d60020cd7afbc27ed9d",
     "enhanced_repository": "enhansome/enhansome-algorand",
     "enhanced_repository_description": null,
     "title": "Awesome Algorand with stars"
