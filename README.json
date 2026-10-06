@@ -55,7 +55,7 @@
                 "open_issues": 33,
                 "owner": "algorandfoundation",
                 "repo": "algokit-cli",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "algokit",
                   "app"
@@ -1376,8 +1376,8 @@
                     "id": 191266671,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T09:40:27Z",
-                    "open_issues": 273,
+                    "last_commit": "2026-10-06T15:09:31Z",
+                    "open_issues": 272,
                     "owner": "algorand",
                     "repo": "go-algorand",
                     "stars": 1439,
@@ -1661,8 +1661,8 @@
                     "id": 478665103,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-05T12:58:58Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-06T12:49:18Z",
+                    "open_issues": 3,
                     "owner": "perawallet",
                     "repo": "connect",
                     "stars": 70,
@@ -3759,7 +3759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:21:23.248Z",
+    "last_updated": "2026-10-06T17:12:50.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓",
