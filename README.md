@@ -213,7 +213,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 279 | 🌐 Go | 📅 2026-11-02 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 274 | 🌐 Go | 📅 2026-11-03 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 20 | 🌐 Go | 📅 2026-10-20 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-10-21 - Algorand's data pipeline framework.
 
@@ -232,7 +232,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 * [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) ⭐ 296 | 🐛 63 | 🌐 TypeScript | 📅 2026-10-31 - The Algorand JavaScript SDK & Examples.
 * [algo-builder](https://github.com/scale-it/algo-builder) ⭐ 128 | 🐛 15 | 🌐 TypeScript | 📅 2023-07-18 - Framework to automate development of Algorand Assets and Smart Contracts.
-* [perawallet-connect](https://github.com/perawallet/connect) ⭐ 70 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-28 - JavaScript SDK for integrating Pera Wallet to web applications.
+* [perawallet-connect](https://github.com/perawallet/connect) ⭐ 70 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-03 - JavaScript SDK for integrating Pera Wallet to web applications.
 * [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-06 - Dapps templates for Algo Builder.
 * [algonaut.js](https://github.com/thencc/algonautjs) ⭐ 10 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-14 - An easier Algo sdk for front-end dapps (TypeScript).
 * [defly-connect](https://github.com/blockshake-io/defly-connect) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-09 - JavaScript SDK for integrating Defly Wallet to web applications.
@@ -348,7 +348,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Wallet Development
 
-* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 100 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-31 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 100 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-03 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 * [use-wallet-js](https://github.com/TxnLab/use-wallet-js) ⚠️ Archived - TypeScript library for integrating Algorand wallets into decentralized applications.
 * [rsagg](https://github.com/dragmz/rsagg) ⭐ 8 | 🐛 4 | 🌐 C | 📅 2026-06-17 - A Rust library for GPU accelerated Algorand 'vanity' address generation.
 
@@ -380,7 +380,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Nodes & Consensus Participation
 
-* [nodekit](https://github.com/algorandfoundation/nodekit) ⭐ 55 | 🐛 10 | 🌐 Go | 📅 2026-10-21 - Terminal user interface for running and managing Algorand nodes locally.
+* [nodekit](https://github.com/algorandfoundation/nodekit) ⭐ 55 | 🐛 10 | 🌐 Go | 📅 2026-11-03 - Terminal user interface for running and managing Algorand nodes locally.
 * [reti](https://github.com/algorandfoundation/reti) ⭐ 44 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-21 - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
 * [Algorand Node UI](https://github.com/algorand/node-ui) ⭐ 28 | 🐛 6 | 🌐 Go | 📅 2023-07-07 - Terminal UI for remote Algorand node management.
 * [AlloCTRL](https://github.com/AlgoNode/alloctrl) ⚠️ Archived - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
@@ -509,4 +509,4 @@ Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
