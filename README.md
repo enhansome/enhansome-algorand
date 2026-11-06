@@ -86,7 +86,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [algokit-cli](https://github.com/algorandfoundation/algokit-cli) ⭐ 193 | 🐛 33 | 🌐 Python | 📅 2026-07-21 - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
 * [puya](https://github.com/algorandfoundation/puya) ⭐ 99 | 🐛 24 | 🌐 Python | 📅 2026-11-02 - An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
 * [algokit-utils-ts](https://github.com/algorandfoundation/algokit-utils-ts) ⭐ 27 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-22 - Algorand AlgoKit Utils for TypeScript.
-* [algokit-utils-py](https://github.com/algorandfoundation/algokit-utils-py) ⭐ 19 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - Algorand AlgoKit Utils for Python.
+* [algokit-utils-py](https://github.com/algorandfoundation/algokit-utils-py) ⭐ 19 | 🐛 22 | 🌐 Python | 📅 2026-09-04 - Algorand AlgoKit Utils for Python.
 * [puya-ts](https://github.com/algorandfoundation/puya-ts) ⭐ 17 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-29 - An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.
 * [algokit-core](https://github.com/algorandfoundation/algokit-core) ⭐ 15 | 🐛 30 | 🌐 Rust | 📅 2026-11-04 - Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).
 * [algokit-avm-vscode-debugger](https://github.com/algorandfoundation/algokit-avm-vscode-debugger) ⭐ 13 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-22 - VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.
@@ -175,7 +175,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [AlgoDeposit](https://github.com/dspytdao/AlgoDeposit) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-04-22 - AMM Pool App Algorand.
 * [xGov-Guru](https://github.com/SilentRhetoric/xGov-Guru) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2024-05-10 - Tool to browse xGov voting data and proposals.
 * [AgorHash](https://github.com/bafio89/agorhash) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-19 - Public, permissionless, decentralized and uncensorable free speech protocol.
-* [algorealm-ui](https://github.com/algorealm/algorealm-ui) ⭐ 3 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-05 - A web CLI Emulator version of algorealm cli game by @aorumbayev.
+* [algorealm-ui](https://github.com/algorealm/algorealm-ui) ⭐ 3 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-06 - A web CLI Emulator version of algorealm cli game by @aorumbayev.
 * [algofractals](https://github.com/aorumbayev/algofractals) ⚠️ Archived - Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)
 * [Algo Snow](https://dragmz.itch.io/algo-snow) - Interactive browser-based Algorand-themed game.
 * [AlgoRadio](https://algocities.pages.dev/landmark/allgoradio) - Experimental Algorand-themed radio experience.
@@ -213,7 +213,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 261 | 🌐 Go | 📅 2026-11-05 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 260 | 🌐 Go | 📅 2026-11-06 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 13 | 🌐 Go | 📅 2026-11-04 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-10-21 - Algorand's data pipeline framework.
 
@@ -224,13 +224,13 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Python
 
-* [py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) ⭐ 274 | 🐛 14 | 🌐 Python | 📅 2026-08-21 - The Algorand Python SDK.
+* [py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) ⭐ 274 | 🐛 16 | 🌐 Python | 📅 2026-08-21 - The Algorand Python SDK.
 * [tinyman-py-sdk](https://github.com/tinymanorg/tinyman-py-sdk) ⭐ 119 | 🐛 7 | 🌐 Python | 📅 2026-06-05 - Tinyman Python SDK.
 * [smart-asa](https://github.com/algorandlabs/smart-asa) ⭐ 31 | 🐛 8 | 🌐 Python | 📅 2024-03-20 - Smart ASA PyTeal reference implementation based on ARC-20.
 
 #### JavaScript & TypeScript
 
-* [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) ⭐ 296 | 🐛 63 | 🌐 TypeScript | 📅 2026-10-31 - The Algorand JavaScript SDK & Examples.
+* [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) ⭐ 296 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-31 - The Algorand JavaScript SDK & Examples.
 * [algo-builder](https://github.com/scale-it/algo-builder) ⭐ 128 | 🐛 15 | 🌐 TypeScript | 📅 2023-07-18 - Framework to automate development of Algorand Assets and Smart Contracts.
 * [perawallet-connect](https://github.com/perawallet/connect) ⭐ 70 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-04 - JavaScript SDK for integrating Pera Wallet to web applications.
 * [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-06 - Dapps templates for Algo Builder.
@@ -348,7 +348,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Wallet Development
 
-* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 100 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-05 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 101 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-06 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 * [use-wallet-js](https://github.com/TxnLab/use-wallet-js) ⚠️ Archived - TypeScript library for integrating Algorand wallets into decentralized applications.
 * [rsagg](https://github.com/dragmz/rsagg) ⭐ 8 | 🐛 4 | 🌐 C | 📅 2026-06-17 - A Rust library for GPU accelerated Algorand 'vanity' address generation.
 
@@ -509,4 +509,4 @@ Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
