@@ -213,7 +213,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 260 | 🌐 Go | 📅 2026-11-07 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 260 | 🌐 Go | 📅 2026-11-08 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 14 | 🌐 Go | 📅 2026-11-06 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-10-21 - Algorand's data pipeline framework.
 
@@ -224,7 +224,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Python
 
-* [py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) ⭐ 274 | 🐛 16 | 🌐 Python | 📅 2026-08-21 - The Algorand Python SDK.
+* [py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) ⭐ 275 | 🐛 16 | 🌐 Python | 📅 2026-08-21 - The Algorand Python SDK.
 * [tinyman-py-sdk](https://github.com/tinymanorg/tinyman-py-sdk) ⭐ 119 | 🐛 7 | 🌐 Python | 📅 2026-06-05 - Tinyman Python SDK.
 * [smart-asa](https://github.com/algorandlabs/smart-asa) ⭐ 31 | 🐛 8 | 🌐 Python | 📅 2024-03-20 - Smart ASA PyTeal reference implementation based on ARC-20.
 
@@ -348,7 +348,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Wallet Development
 
-* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 101 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-07 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 101 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-08 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 * [use-wallet-js](https://github.com/TxnLab/use-wallet-js) ⚠️ Archived - TypeScript library for integrating Algorand wallets into decentralized applications.
 * [rsagg](https://github.com/dragmz/rsagg) ⭐ 8 | 🐛 4 | 🌐 C | 📅 2026-06-17 - A Rust library for GPU accelerated Algorand 'vanity' address generation.
 
@@ -509,4 +509,4 @@ Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
