@@ -88,7 +88,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [algokit-utils-ts](https://github.com/algorandfoundation/algokit-utils-ts) ⭐ 27 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-12 - Algorand AlgoKit Utils for TypeScript.
 * [algokit-utils-py](https://github.com/algorandfoundation/algokit-utils-py) ⭐ 19 | 🐛 22 | 🌐 Python | 📅 2026-09-04 - Algorand AlgoKit Utils for Python.
 * [puya-ts](https://github.com/algorandfoundation/puya-ts) ⭐ 17 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-29 - An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.
-* [algokit-core](https://github.com/algorandfoundation/algokit-core) ⭐ 15 | 🐛 30 | 🌐 Rust | 📅 2026-11-14 - Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).
+* [algokit-core](https://github.com/algorandfoundation/algokit-core) ⭐ 15 | 🐛 32 | 🌐 Rust | 📅 2026-11-15 - Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).
 * [algokit-avm-vscode-debugger](https://github.com/algorandfoundation/algokit-avm-vscode-debugger) ⭐ 13 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-22 - VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.
 * [algorand-python-testing](https://github.com/algorandfoundation/algorand-python-testing) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-05-28 - A Python library for unit testing Algorand Python smart contracts without the need to interact with the Algorand Blockchain.
 * [algokit-client-generator-ts](https://github.com/algorandfoundation/algokit-client-generator-ts) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Algorand AlgoKit Typed Client Generator for TypeScript.
@@ -213,7 +213,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 264 | 🌐 Go | 📅 2026-11-14 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 267 | 🌐 Go | 📅 2026-11-15 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 14 | 🌐 Go | 📅 2026-11-06 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-10-21 - Algorand's data pipeline framework.
 
@@ -348,7 +348,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Wallet Development
 
-* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 101 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-14 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 101 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-15 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 * [use-wallet-js](https://github.com/TxnLab/use-wallet-js) ⚠️ Archived - TypeScript library for integrating Algorand wallets into decentralized applications.
 * [rsagg](https://github.com/dragmz/rsagg) ⭐ 8 | 🐛 4 | 🌐 C | 📅 2026-06-17 - A Rust library for GPU accelerated Algorand 'vanity' address generation.
 
@@ -509,4 +509,4 @@ Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
