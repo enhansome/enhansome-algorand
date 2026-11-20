@@ -175,7 +175,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [AlgoDeposit](https://github.com/dspytdao/AlgoDeposit) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-04-22 - AMM Pool App Algorand.
 * [xGov-Guru](https://github.com/SilentRhetoric/xGov-Guru) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2024-05-10 - Tool to browse xGov voting data and proposals.
 * [AgorHash](https://github.com/bafio89/agorhash) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-19 - Public, permissionless, decentralized and uncensorable free speech protocol.
-* [algorealm-ui](https://github.com/algorealm/algorealm-ui) ⭐ 3 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-19 - A web CLI Emulator version of algorealm cli game by @aorumbayev.
+* [algorealm-ui](https://github.com/algorealm/algorealm-ui) ⭐ 3 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-20 - A web CLI Emulator version of algorealm cli game by @aorumbayev.
 * [algofractals](https://github.com/aorumbayev/algofractals) ⚠️ Archived - Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)
 * [Algo Snow](https://dragmz.itch.io/algo-snow) - Interactive browser-based Algorand-themed game.
 * [AlgoRadio](https://algocities.pages.dev/landmark/allgoradio) - Experimental Algorand-themed radio experience.
@@ -213,7 +213,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 270 | 🌐 Go | 📅 2026-11-19 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 274 | 🌐 Go | 📅 2026-11-20 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 15 | 🌐 Go | 📅 2026-11-18 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 44 | 🐛 17 | 🌐 Go | 📅 2026-10-21 - Algorand's data pipeline framework.
 
@@ -245,12 +245,12 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### .NET
 
-* [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) ⭐ 41 | 🐛 6 | 🌐 C# | 📅 2026-06-11 - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
+* [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) ⭐ 40 | 🐛 6 | 🌐 C# | 📅 2026-06-11 - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
 * [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2025-06-28 - An Algorand SDK for Unity. Use the Algorand Blockchain in your video game.
 * [dotnet-alogrand-sdk (2)](https://github.com/FrankSzendzielarz/dotnet-algorand-sdk) ⭐ 29 | 🐛 6 | 🌐 C# | 📅 2024-05-19 - Algorand .NET SDK maintained by [@FrankSzendzielarz](https://github.com/FrankSzendzielarz).
 * [dotnet-yieldly-sdk](https://github.com/geoffodonnell/dotnet-yieldly-sdk) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2023-01-08 - Yieldly .NET SDK.
 * [dotnet-tinyman-sdk](https://github.com/geoffodonnell/dotnet-tinyman-sdk) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2023-05-13 - Tinyman .NET SDK.
-* [powershell-algorand-module](https://github.com/geoffodonnell/powershell-algorand-module) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2024-03-30 - Algorand PowerShell Module.
+* [powershell-algorand-module](https://github.com/geoffodonnell/powershell-algorand-module) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2024-03-30 - Algorand PowerShell Module.
 * [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2021-11-10 - Quick and dirty Unity SDK based on .NET Algorand SDK by RileyGe.
 
 #### Rust
@@ -327,7 +327,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Deployment & Environment
 
-* [Algorand Sandbox](https://github.com/algorand/sandbox) ⭐ 240 | 🐛 14 | 🌐 Shell | 📅 2026-11-18 - Fast way to create and configure an Algorand development environment.
+* [Algorand Sandbox](https://github.com/algorand/sandbox) ⭐ 240 | 🐛 13 | 🌐 Shell | 📅 2026-11-20 - Fast way to create and configure an Algorand development environment.
 * [Algorand Sandbox Dev](https://github.com/MakerXStudio/algorand-sandbox-dev) ⚠️ Archived - Docker Hub image for faster local development and CI/CD usage. (Archived on Jan 2, 2024)
 * [Official Algod Container](https://hub.docker.com/r/algorand/algod) - Algod Docker Hub image from Algorand Inc.
 * [Official Conduit Container](https://hub.docker.com/r/algorand/conduit) - Conduit Docker Hub image from Algorand Inc.
@@ -348,7 +348,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Wallet Development
 
-* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 101 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-18 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 101 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-20 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 * [use-wallet-js](https://github.com/TxnLab/use-wallet-js) ⚠️ Archived - TypeScript library for integrating Algorand wallets into decentralized applications.
 * [rsagg](https://github.com/dragmz/rsagg) ⭐ 8 | 🐛 4 | 🌐 C | 📅 2026-06-17 - A Rust library for GPU accelerated Algorand 'vanity' address generation.
 
@@ -381,7 +381,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 ### Nodes & Consensus Participation
 
 * [nodekit](https://github.com/algorandfoundation/nodekit) ⭐ 55 | 🐛 11 | 🌐 Go | 📅 2026-11-12 - Terminal user interface for running and managing Algorand nodes locally.
-* [reti](https://github.com/algorandfoundation/reti) ⭐ 44 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-21 - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
+* [reti](https://github.com/algorandfoundation/reti) ⭐ 44 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-20 - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
 * [Algorand Node UI](https://github.com/algorand/node-ui) ⭐ 28 | 🐛 6 | 🌐 Go | 📅 2023-07-07 - Terminal UI for remote Algorand node management.
 * [AlloCTRL](https://github.com/AlgoNode/alloctrl) ⚠️ Archived - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
 * [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-05 - Dev Notes for Archival Node, Indexer Setup (and more).
@@ -436,7 +436,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [algorand-mcp](https://github.com/GoPlausible/algorand-mcp) ⭐ 44 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-09 - Algorand Model Context Protocol (Server & Client) by GoPlausible.
 * [algorand-agent-skills](https://github.com/algorand-devrel/algorand-agent-skills) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2026-09-09 - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
 * [VibeKit](https://github.com/gabrielkuettel/vibekit) ⭐ 27 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-03 - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
-* [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) ⭐ 15 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-09 - Algorand remote SSE MCP Server Cloudflare Worker.
+* [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) ⭐ 15 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-20 - Algorand remote SSE MCP Server Cloudflare Worker.
 * [arcontextify](https://github.com/aorumbayev/arcontextify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-18 - Algorand ARC-56 to MCP server converter.
 * [AlgoChat](https://github.com/corvid-agent/corvid-agent-chat) ⭐ 4 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-06 - Encrypted peer-to-peer chat client using Algorand transactions and PSK ratcheting.
 * [corvid-agent](https://github.com/corvid-agent/corvid-agent) ⭐ 1 | 🐛 13 | 📅 2026-10-10 - An autonomous AI agent platform built on Algorand with encrypted on-chain messaging.
@@ -509,4 +509,4 @@ Special thanks to everyone who forked or starred the repository ❤️
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
