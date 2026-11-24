@@ -1376,11 +1376,11 @@
                     "id": 191266671,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-23T01:00:26Z",
+                    "last_commit": "2026-11-24T01:00:32Z",
                     "open_issues": 276,
                     "owner": "algorand",
                     "repo": "go-algorand",
-                    "stars": 1437,
+                    "stars": 1436,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:32.625Z"
@@ -2998,8 +2998,8 @@
                 "id": 554044144,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T17:47:01Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-24T16:25:29Z",
+                "open_issues": 8,
                 "owner": "TxnLab",
                 "repo": "use-wallet",
                 "stars": 101,
@@ -3381,7 +3381,7 @@
             "id": 1014916925,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T11:33:50Z",
+            "last_commit": "2026-11-24T00:14:24Z",
             "open_issues": 4,
             "owner": "GoPlausible",
             "repo": "algorand-remote-mcp",
@@ -3532,7 +3532,7 @@
                 "open_issues": 0,
                 "owner": "Folks-Finance",
                 "repo": "folks-router",
-                "stars": 16,
+                "stars": 15,
                 "topics": [
                   "algorand",
                   "astro",
@@ -3759,7 +3759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:40:28.881Z",
+    "last_updated": "2026-11-24T21:14:45.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓",
@@ -3771,7 +3771,7 @@
       "open_issues": 5,
       "owner": "awesome-algorand",
       "repo": "awesome-algorand",
-      "stars": 216,
+      "stars": 215,
       "topics": [
         "ai",
         "algorand",
